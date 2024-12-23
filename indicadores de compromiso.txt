@@ -103,3 +103,142 @@ SHA256
 • 8d61f5b56f05daeef394dbc434abb96c1388aca8406e02445a72db1a65b9da3d
 • 9374e1561a87a23b12ec586859661241b2eb5da822c0b4b874cdf9eda480363f
 • Fff7637514c6238443100fbc4d1fef626cebf043eef1aefa3a0f5ab6d0103bf6
+
+WmRAT y MiyaRAT Utilizados en Campaña de Ciberespionaje
+
+IP
+• 38[.]180[.]142[.]228
+• 96[.]9[.]215[.]155
+DOMAIN
+• academymusica[.]com
+• samsnewlooker[.]com
+• jacknwoods[.]com
+SHA256
+• f6c77098906f5634789d7fd7ff294bfd95325d69f1be96be1ee49ff161e07733
+• 10cec5a84943f9b0c635640fad93fd2a2469cc46aae5e43a4604c903d139970f
+• c7ab300df27ad41f8d9e52e2d732f95479f4212a3c3d62dbf0511b37b3e81317
+
+Ataque Vishing Distribuyo el Malware  DarkGate
+
+IP
+• 179[.]60[.]149[.]194
+URL
+• hxxp://179[.]60[.]149[.]194:8080/fdgjsdmt
+SHA256
+• 1cbda9a3f202e7aacc57bcf3d43ec7b1ca42564a947d6b5a778df90cddef079a
+• 4e291266399bd8db27da0f0913c041134657f3b1cf45f340263444c050ed3ee1
+• faa54f7152775fa6ccaecc2fe4a6696e5b984dfa41db9a622e4d3e0f59c82d8b
+• bb56354cdb241de0051b7bcc7e68099e19cc2f26256af66fad69e3d2bc8a8922
+• e4d13af4bfc3effe4f515c2530b1b182e18ad0c0a3dacac4dd80d6edcf0b007a
+
+Indicadores de Compromiso Investigadores Independientes
+IP
+• 193[.]43[.]104[.]153
+• 87[.]121[.]45[.]33
+• 77[.]105[.]161[.]133
+• 92[.]255[.]85[.]148
+• 176[.]113[.]115[.]178
+• 62[.]60[.]149[.]88
+• 62[.]60[.]245[.]252
+• 78[.]155[.]194[.]228
+• 45[.]131[.]135[.]227
+• 147[.]45[.]47[.]15
+• 95[.]181[.]162[.]143
+• 95[.]181[.]167[.]11
+• 109[.]120[.]140[.]242
+• 147[.]45[.]78[.]74
+• 150[.]241[.]102[.]15
+• 176[.]124[.]204[.]229
+• 176[.]124[.]205[.]86
+• 193[.]124[.]203[.]119
+• 172[.]234[.]22[.]17
+• 148[.]66[.]61[.]83
+• 62[.]60[.]154[.]142
+DOMAIN
+• email[.]gov[.]in[.]mailindia[.]one
+• atlanwelt[.]de
+• cocomethode[.]de
+• floratranslator[.]live
+• ghayoorfilmstudio[.]com
+• ucarecdn[.]com
+• digitech99[.]com
+• tiemtrasua[.]com
+• adobe-acrobat[.]com
+• karishmaerik324[.]com
+• cbnotifiser[.]top
+• maguagency[.]online
+• entelbcl[.]top
+• syadminiiiiiiii[.]top
+• gpv-gov[.]ru
+• hsbcchatbm[.]com
+• entelkcl[.]top
+• mygovaus-inbox[.]com
+• sylanmaosg[.]top 
+• entelvcl[.]top
+• sylanmaosg[.]top
+• entecclcl[.]top
+• shanslh[.]top
+• holmenester[.]com
+• misiterlom[.]com
+• gstatis[.]co
+• ssl[.]gstatlc[.]org
+• telegram-autification[.]lol
+URL
+• hxxps://document[.]diiap[.]me/hS483kf/Front[.]jpg
+• hxxp://tax[.]diia[.]me
+• hxxp://bbbitcoin[.]oss-cn-hongkong[.]aliyuncs[.]com/
+• hxxp://124[.]158[.]5[.]149:8081/
+• hxxp://87[.]120[.]126[.]205/uuid-dwddw-124123edwdr4rewdf32[.]json
+• hxxp://87[.]120[.]126[.]205/uuid-decebal-cio-hdf84w9rzfh489rr342w[.]json
+• hxxp://87[.]120[.]126[.]205/uuid-redsauer-tg-cracked-ewu278e9h312r83373495r[.]json
+• hxxp://185[.]215[.]113[.]31:85/api/getinjects
+• hxxp://185[.]215[.]113[.]31:85/api/getkeyloggers
+• hxxps://aureonline[.]cloudlsk[.]sbs/
+• hxxps://syncme[.]life/lavita[.]php
+• hxxps://cronoze[.]com:8817/intel[.]php
+• hxxps://muuxxu[.]com:8817/pentium[.]php
+• hxxps://proliforetka[.]com/test/
+• hxxps://dogirafer[.]com/test/
+MD5
+• 21b9d10fa7f79b68473855c76f1eaab6
+• a9e720d832523cb06381789ca5628967
+• bd350f490c188a40854b8818a22dbdd8
+• 403e27e527baabeb53ef83b99c4cadee
+• 5bbecffd689f7c315453f2738acd231d
+• 1781f53a431d3a64a175499926845f41
+• 30b26aa2e3f3637b2170e45e772b8dad
+• f5555ee93ca7488232b99ed20f13cbf5
+• 418a17af28f028cdfe1ad3cef413b15d
+• 95fcc71dedae8df14e1423ca1e978a0e
+• c92e2655d115368f92e7b7de5803b7bc
+• cee242e5f652782444d11cbdc5db3a0a
+• 151ea0ca0f74ded7645f0bc13fcc9b24
+• f8cdbdf8318c11c2e3e286195f067042
+• 41d3660b5321768122f4c25ac9868fc3
+• e52861e91c4efd76251b61cc4bf49e4b
+• dbde25dfc3f3759e9545fde7bec931d4
+• a83b5339aa8d553b86fcbd48b8b8da20
+• 35c29b31c3564e7d7cae9901299d41dd
+• fbf3c44fdf1d635d1142ae0ec32fe887
+• 19dabeca5fe5f5f35382f8e19c0d4403
+SHA1
+• b8d45b161f9fb8759a11ed123e5878e25f1981b3
+• cf136da651dfb9104dcba68460ff57288b8c2ff9
+• 304a9849894df9e6b3d381f2d24bcf2ef5b497fb
+• f336903e65598cdc4908ee4ac0ff106c8c7fb027
+SHA256
+• 394d76104dc34c9b453b5adaf06c58de8f648343659c0e0512dd6e88def04de3
+• 336d9501129129b917b23c60b01b56608a444b0fbe1f2fdea5d5beb4070f1f14
+• e692ff3b23bec757f967e3a612f8d26e45a87509a74f55de90833a0d04226626
+• ad81c2a39b61f103e8e9fd1f336cf93954be2d8c44fdaa8ebceedec4c4643d37
+• 9692613a9bae252b259625f7949f697a50f3bb9a3692f53a6cbb91ca069e29b5
+• d5a23e43954d0665d3bb6441b53d360016729749d0e2ea5c9c546e381bf4ae47
+• 195750197ff6466eca095102f9e04dce114b5fb876bbbf3ec099fc0103bdb8db
+• b7a334320be05f2c338cf6f0515ec2db69ea75a999241a0d2e865e5e89eeeee7
+• f071f083770fe89d0860ba0cf46eda960d3ccf31639a18dda8954a0c026165d9
+• afc971f687303d0b3f3699883aa428f885d0a3fc20576953a28d31844328ccda
+• ea2c9e620d779449a2d5176ace0c4993934e85be7a0207f3f51b4a432627ad2f
+• 8ae6cf2d0932782784084ff0e792a85146d5073115556e8d05a225e635ec96fa
+• 1f80f1ca76be1a2a8d8a6ac77eeb125c415046ce78d0a9661982e59ea9622b02
+
+
