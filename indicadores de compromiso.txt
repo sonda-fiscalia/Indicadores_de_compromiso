@@ -727,3 +727,77 @@ MD5
 • ac6ddd56aa4bf53170807234bc91345a
 • 36b97c500e36d5300821e874452bbcb2
 • febf2a94bc59011b09568071c52512b5
+
+Nuevos Paquetes Maliciosos en PyPI
+
+
+
+IP
+• 47[.]100[.]36[.]233
+• 111[.]230[.]30[.]197
+• 176[.]126[.]86[.]20
+• 109[.]234[.]156[.]179
+• 77[.]223[.]124[.]212
+• 95[.]213[.]205[.]83
+DOMAIN
+• bremerhaven-mail[.]de
+• elektro-radio[.]se
+• karishmaerik324[.]com
+• umeharasyo[.]one
+• saveyourdata[.]shop
+• nouisser[.]de
+• notasfiscaisbr[.]online
+• ntsteallers[.]com
+
+• consirepdi[.]biz
+• ecofonts[.]pro
+• generateyourlogo[.]pro
+• helpdevtools[.]world
+• opensansfont[.]com
+• perfectdomains[.]world
+• myawesomecrm3[.]com
+• mail[.]vyreality[.]com
+• phish cyan-breezy-navy[.]glitch[.]me
+• fehclaus[.]de
+• mischei[.]de
+• multimediamingle[.]com
+• senpix[.]nl
+• tiemtrasua[.]com
+• triobris[.]de
+• wachwichtel[.]de
+URL
+• hxxp://147[.]45[.]44[.]216
+• hxxp://194[.]59[.]30[.]192
+• hxxp://64[.]52[.]80[.]94
+• hxxp://176[.]126[.]86[.]20
+• hxxp://pumapomp[.]store/nin/list[.]html
+• hxxps://reset-acc[.]click/pango
+MD5
+• 8ff61e4156c10b085e0c2233f24e8501
+• 1319da1523ec2a67bda016c15334c195
+• 31c6032e6cfa6c514c0b0b30fe75c66e
+• 595df89dc035d09ea849824e11f9244d
+• 68b1cd0ce53af0014460064549d805c9
+• f9fc77a2adafa2bd1ac45cd03f3b9b2a
+• cb2cf13c8f370bb44987d747893ae9ab
+• 188598f1bf5b66aed6ae003b819a0d4a
+• a56d34675b9737049ba63ad7ffe9afa9
+• 2cdd33750abe61961859458eab170606
+• accf861d98db7747948594d7cb690b75
+• fb8117b1a3f0924100fbc209dbbb1bb1
+• 8429d99d69cef1ed44171df67db61f21
+• 24f15e659ecb67862f4c6e72726bfca7
+• d93562ef6487674c6a3442702be88f6b
+• 47198c5e434f94fa58f07553b398b46e
+• 0b53b4b5f549b4562e749a037d8e0a74
+SHA1
+• 19162197fa7e81cf58177d8ed12f93579eeaccd2
+SHA256
+• 01c6bc7bc8b4367205b698b99ad57df27387aa855a3245bdf5fa727e73925d06
+• ba6ca4391a9fb405dd780fd5fb1a8acea22435f1707b2422e2bec6d74dbecc41
+• ef19390b540204a0cc55c9a8398a728330460a7ee1df506689c88092f8d8fec3
+• 15f1f5cbadc16fbd4998e933e16b957d64edc6ed9666490064dec4a2b6a6b1b4
+SHA256
+• 4aeb0211bd6d9e7c74c09ac67812465f2a8e90e25fe04b265b7f289deea5db21
+• 839d0cfcc52a130add70239b943d8c82c4234b064d6f996eeaae142f05cc9e85
+• e01c61dc52514b011c83c293cf19092c40cb606a28a87675b4f896be5afebed2
