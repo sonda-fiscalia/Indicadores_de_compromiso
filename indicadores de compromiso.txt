@@ -1,255 +1,131 @@
 indicador de compromiso [IoC]
 
-
-Botnet FICORA y CAPSAICIN Explotan Vulnerabilidades en Routers D-Link
-IP
-• 103[.]149[.]87[.]69
-• 87[.]10[.]220[.]221
-• 45[.]86[.]86[.]60
-• 194[.]110[.]247[.]46
-• 87[.]11[.]174[.]141
-DOMAIN
-• ru[.]coziest[.]lol
-• f[.]codingdrunk[.]cc
-• fortyfivehundred[.]dyn
-• 21savage[.]dyn
-• le[.]codingdrunk[.]in
-• pirati[.]abuser[.]eu
-URL
-• hxxp://103[.]149[.]87[.]69/multi
-• hxxp://103[.]149[.]87[.]69/la.bot.arc
-• hxxp://103[.]149[.]87[.]69/la.bot.arm
-• hxxp://103[.]149[.]87[.]69/la.bot.arm5
-• hxxp://103[.]149[.]87[.]69/la.bot.arm6
-• hxxp://103[.]149[.]87[.]69/la.bot.arm7
-• hxxp://103[.]149[.]87[.]69/la.bot.m68k
-• hxxp://103[.]149[.]87[.]69/la.bot.mips
-• hxxp://103[.]149[.]87[.]69/la.bot.mipsel
-• hxxp://103[.]149[.]87[.]69/la.bot.powerpc
-• hxxp://103[.]149[.]87[.]69/la.bot.sh4
-• hxxp://103[.]149[.]87[.]69/la.bot.sparc
-• hxxp://87[.]11[.]174[.]141/bins.sh
-• hxxp://pirati[.]abuser[.]eu/yakuza.yak.sh
-• hxxp://pirati[.]abuser[.]eu/yakuza.arm5
-• hxxp://pirati[.]abuser[.]eu/yakuza.arm6
-• hxxp://pirati[.]abuser[.]eu/yakuza.arm7
-• hxxp://pirati[.]abuser[.]eu/yakuza.i586
-• hxxp://pirati[.]abuser[.]eu/yakuza.i686
-• hxxp://pirati[.]abuser[.]eu/yakuza.m68k
-• hxxp://pirati[.]abuser[.]eu/yakuza.mips
-• hxxp://pirati[.]abuser[.]eu/yakuza.mipsel
-• hxxp://pirati[.]abuser[.]eu/yakuza.ppc
-• hxxp://pirati[.]abuser[.]eu/yakuza.sparc
-• hxxp://pirati[.]abuser[.]eu/yakuza.x86
-• hxxp://87[.]10[.]220[.]221/bins.sh
-• hxxp://87[.]10[.]220[.]221/yakuza.sh
-• hxxp://87[.]10[.]220[.]221/yakuza.arm4
-• hxxp://87[.]10[.]220[.]221/yakuza.arm5
-• hxxp://87[.]10[.]220[.]221/yakuza.arm6
-• hxxp://87[.]10[.]220[.]221/yakuza.arm7
-• hxxp://87[.]10[.]220[.]221/yakuza.i586
-• hxxp://87[.]10[.]220[.]221/yakuza.i686
-• hxxp://87[.]10[.]220[.]221/yakuza.m68k
-• hxxp://87[.]10[.]220[.]221/yakuza.mips
-• hxxp://87[.]10[.]220[.]221/yakuza.mipsel
-• hxxp://87[.]10[.]220[.]221/yakuza.ppc
-• hxxp://87[.]10[.]220[.]221/yakuza.sparc
-• hxxp://87[.]10[.]220[.]221/yakuza.x86
-SHA256
-• f71dc58cc969e79cb0fdfe5163fbb9ed4fee5e13cc9407a11d231601ee4c6e23
-• ea83411bd7b6e5a7364f7b8b9018f0f17f7084aeb58a47736dd80c99cfeac7f1
-• 48a04c7c33a787ef72f1a61aec9fad87d6bd9c49542f52af7e029ac83475f45d
-• 18c92006951f93a77df14eca6430f32389080838d97c9e47364bf82f6c21a907
-• 9b161a32d89f9b19d40cd4c21d436c1daf208b5d159ffe1df7ad5fd1a57610e5
-• faeea9d5091384195e87caae9dd88010c9a2b3b2c88ae9cac8d79fd94f250e9f
-• 10d7aedc963ea77302b967aad100d7dd90d95abcdb099c5a0a2df309c52c32b8
-• 7f6912de8bef9ced5b9018401452278570b4264bb1e935292575f2c3a0616ec4
-• a06fd0b8936f5b2370db5f7ec933d53bd8a1bf5042cdc5c052390d1ecc7c0e07
-• 764a03bf28f9eec50a1bd994308e977a64201fbe5d41337bdcc942c74861bcd3
-• df176fb8cfbc7512c77673f862e73833641ebb0d43213492c168f99302dcd5e3
-• ac2df391ede03df27bcf238077d2dddcde24cd86f16202c5c51ecd31b7596a68
-• ca3f6dce945ccad5a50ea01262b2d42171f893632fc5c5b8ce4499990e978e5b
-• afee245b6f999f6b9d0dd997436df5f2abfb3c8d2a8811ff57e3c21637207d62
-• ec508df7cb142a639b0c33f710d5e49c29a5a578521b6306bee28012aadde4a8
-• 8349ba17f028b6a17aaa09cd17f1107409611a0734e06e6047ccc33e8ff669b0
-• b3ad8409d82500e790e6599337abe4d6edf5bd4c6737f8357d19edd82c88b064
-• ec87dc841af77ec2987f3e8ae316143218e9557e281ca13fb954536aa9f9caf1
-• 784c9711eadceb7fedf022b7d7f00cff7a75d05c18ff726e257602e3a3ccccc1
-• bde6ef047e0880ac7ef02e56eb87d5bc39116e98ef97a5b1960e9a55cea5082b
-• c7be8d1b8948e1cb095d46376ced64367718ed2d9270c2fc99c7052a9d1ffed7
-• 4600703535e35b464f0198a1fa95e3668a0c956ab68ce7b719c28031d69b86ff
-• 6e3ef9404817e168c974000205b27723bc93abd7fbf0581c16bb5d2e1c5c6e4a
-• 32e66b87f47245a892b102b7141d3845540b270c278e221f502807758a4e5dee
-• 540c00e6c0b53332128b605b0d5e0926db0560a541bb13448d094764844763df
-• b74dbd02b7ebb51700f3c5900283e46570fe497f9b415d25a029623118073519
-• 148f6b990fc1f1903287cd5c20276664b332dd3ba8d58f2bf8c26334c93c3af5
-• 464e2f1faab2a40db44f118f7c3d1f9b300297fe6ced83fabe87563fc82efe95
-• b699cd64b9895cdcc325d7dd96c9eca623d3ec0247d20f39323547132c8fa63b
-• 1007f5613a91a5d4170f28e24bfa704c8a63d95a2b4d033ff2bff7e2fe3dcffe
-• 7a815d4ca3771de8a71cde2bdacf951bf48ea5854eb0a2af5db7d13ad51c44ab
-• d6a2a22000d68d79caeae482d8cf092c2d84d55dccee05e179a961c72f77b1ba
-• 7ab36a93f009058e60c8a45b900c1c7ae38c96005a43a39e45be9dc7af9d6da8
-• 803abfe19cdc6c0c41acfeb210a2361cab96d5926b2c43e5eb3b589a6ed189ad
-• 7b29053306f194ca75021952f97f894d8eae6d2e1d02939df37b62d3845bfdb7
-• 59704cf55b9fa439d6f7a36821a50178e9d73ddc5407ff340460c054d7defc54
-• aaa49b7b4f1e71623c42bc77bb7aa40534bcb7312da511b041799bf0e1a63ee7
-• 1ca1d5a53c4379c3015c74af2b18c1d9285ac1a48d515f9b7827e4f900a61bde
-
-Nuevos Backdoor del Grupo Cloud Atlas
-
-DOMAIN
-• content-protect[.]net
-• control-issue[.]net
-• office-confirm[.]com
-• onesoftware[.]info
-• serverop-parametrs[.]com
-• web-privacy[.]net
-• net-plugin[.]org
-• triger-working[.]com
-• yandesks[.]net
-• yandisk[.]info
-• mirconnect[.]info
-• sber-cloud[.]info
-• gosportal[.]net
-• riamir[.]net
-• web-wathapp[.]com
-• yandisk[.]info
-• yandesktop[.]com
-• web-wathapp[.]com
-• webdav.mydrive.ch
-MD5
-• 9D3557CC5C444FE5D73E4C7FE1872414
-• CBA05E11CB9D1D71F0FA70ECD1AF2480
-• CBFB691E95EE34A324F94ED1FF91BC23
-• 2D24044C0A5B9EBE4E01DED2BFC2B3A4
-• 88BE01F8C4A9F335D33FA7C384CA4666
-• A30319545FDA9E2DA0532746C09130EB
-• 15FD46AC775A30B1963281A037A771B1
-• 31B01387CA60A1771349653A3C6AD8CA
-• 389BC3B9417D893F3324221141EDEA00
-• AA8DA99D5623FAFED356A14E59ACBB90
-• 016B6A035B44C1AD10D070ABCDFE2F66
-• 160A65E830EB97AAE6E1305019213558
-• 184CF8660AF7538CD1CD2559A10B6622
-• 1AF1F9434E4623B7046CF6360E0A520E
-• 1BFB9CBA8AA23A401925D356B2F6E7ED
-• 21585D5881CC11ED1F615FDB2D7ACC11
-• 242E86E658FE6AB6E4C81B68162B3001
-• 2FE7E75BC599B1C68B87CF2A3E7AA51F
-• 36DD0FBD19899F0B23ADE5A1DE3C2FEC
-• 389F6E6FD9DCC84C6E944DC387087A56
-• 3A54ACD967DD104522BA7D66F4D86544
-• 3F12BF4A8D82654861B5B5993C012BFA
-• 49F8ED13A8A13799A34CC999B195BF16
-• 4B96DC735B622A94D3C74C0BE9858853
-• F45008BF1889A8655D32A0EB93B8ACDD
-• 0139F32A523D453BC338A67CA45C224D
-• 01DB58A1D0EC85ADC13290A6290AD9D6
-• 0F37E1298E4C82098DC9318C7E65F9D2
-• 6FCEE9878216019C8DFA887075C5E68E
-• D445D443ACE329FB244EDC3E5146313B
-• F3F28018FB5108B516D802A038F90BDE
-
-Paquete npm Malicioso Distribuye Quasar RAT
+Backdoor EAGERBEE Utilizado en Ataques Contra ISP
 
 IP
-• 154[.]216[.]17[.]47
+• 62[.]233[.]57[.]94
+• 82[.]118[.]21[.]230
+• 194[.]71[.]107[.]215
+• 151[.]236[.]16[.]167
+• 5[.]34[.]176[.]46
+• 195[.]123[.]242[.]120
+• 195[.]123[.]217[.]139
 DOMAIN
-• captchacdn[.]com
-URL
-• hxxps://jujuju[.]lat/files/kk[.]cmd
-SHA256
-• 9c3d53c7723bfdd037df85de4c26efcd5e6f4ad58cc24f7a38a774bf22de3876
+• www[.]socialentertainments[.]store
+• www[.]rambiler[.]com
+MD5
+• 183f73306c2d1c7266a06247cedd3ee2
+• 9d93528e05762875cf2d160f15554f44
+• c651412abdc9cf3105dfbafe54766c44
+• 26d1adb6d0bcc65e758edaf71a8f665d
+• cbe0cca151a6ecea47cfaa25c3b1c8a8
+• 35ece05b5500a8fc422cec87595140a7
 
-Indicadores de Compromiso Investigadores Independientes
+
+Gayfemboy Nueva Variante de la Botnet Mirai
 
 IP
-• 124[.]223[.]12[.]165
-• 141[.]98[.]9[.]203
-• 141[.]98[.]9[.]202
-• 193[.]124[.]185[.]50
-• 193[.]124[.]185[.]53
-• 193[.]124[.]185[.]54
-• 176[.]113[.]115[.]170
-• 112[.]175[.]185[.]59
-• 64[.]227[.]184[.]126
-• 139[.]84[.]168[.]246
+• 123[.]249[.]103[.]79
+• 123[.]249[.]109[.]227
+• 123[.]249[.]111[.]22
+• 123[.]249[.]116[.]30
+• 123[.]249[.]116[.]81
+• 123[.]249[.]126[.]147
+• 123[.]249[.]64[.]207
+• 123[.]249[.]68[.]177
+• 123[.]249[.]82[.]162
+• 123[.]249[.]82[.]229
+• 123[.]249[.]87[.]110
+• 123[.]249[.]90[.]104
+• 123[.]249[.]90[.]23
+• 123[.]249[.]91[.]159
+• 123[.]249[.]94[.]157
+• 123[.]249[.]99[.]231
+• 124[.]71[.]235[.]245
+• 176[.]97[.]210[.]250
+• 178[.]211[.]139[.]105
+• 178[.]211[.]139[.]196
+• 178[.]211[.]139[.]241
+• 185[.]16[.]39[.]37
+• 193[.]32[.]162[.]34
+• 193[.]34[.]214[.]123
+• 193[.]42[.]12[.]166
+• 194[.]50[.]16[.]198
+• 198[.]98[.]51[.]91
+• 198[.]98[.]54[.]234
+• 209[.]141[.]32[.]195
+• 209[.]141[.]51[.]21
+• 37[.]114[.]63[.]100
+• 45[.]128[.]232[.]200
+• 45[.]142[.]122[.]187
+• 45[.]142[.]182[.]126
+• 45[.]145[.]41[.]175
+• 45[.]148[.]10[.]230
+• 45[.]95[.]147[.]211
+• 5[.]181[.]188[.]158
+• 70[.]36[.]99[.]15
+• 77[.]90[.]22[.]10
+• 77[.]90[.]22[.]35
+• 94[.]156[.]10[.]163
+• 94[.]156[.]10[.]164
+• 95[.]214[.]53[.]211
+• 95[.]214[.]54[.]53
+
+Nuevo Troyano de Acceso Remoto NonEuclid RAT
+
+SHA256
+• d32585b207fd3e2ce87dc2ea33890a445d68a4001ea923daa750d32b5de52bf0
+• e1f19a2bc3ce5153e8dfe2f630cc43d6695fac73f5aaa59cd96dc214ca81c2b0
+
+Nueva Variante de Banshee Stealer Afecta Dispositivos macOS
+
+IP
+• 41[.]216[.]183[.]49
 DOMAIN
-• klipzyroloo[.]shop
-• learningypr[.]click
-• adammasteries[.]site
-• kaatsonlinesupport[.]com
-• qsmart[.]cl
-• bulb[.]cl
-• agrisuperfood[.]cl
-• Camera-drive[.]cloud 
-• chatjssvcss[.]com
-• logwplmap[.]com
-• mypost-usps[.]com
-• usps-mydeliver[.]com
-• usps-online-safe[.]com
-• dsgnflux[.]com
-• dsgnpit[.]com
-• fittjamatmarknad[.]se
-• letcc[.]tk
-• letzz[.]c
-
-• mktgle[.]com
-• mktloope[.]com
-• mktvibe[.]com
-• prisonyfork[.]buzz
-• hummskitnj[.]buzz
-• screwamusresz][.]buzz
-• inherineau[.]buzz
-• cashfuzysao[.]buzz
-• scentniej[.]buzz
-• rebuildeso[.]buzz
-• appliacnesot[.]buzz
-• naver-auth[.]com
-• kakao-auth[.]com
-• navauth[.]com
-• kakauth[.]com
-• nbch1na[.]com
-• indiabs[.]nl
-• indiabsnl[.]net
-• denizens-nonfrigidity[.]initrdns[.]webhosting[.]com
-URL
-• hxxp://124[.]223[.]12[.]165/
-• hxxps://brillflooring[.]com/wp-content/plugins/wd-main-plugin/wd-main[.]php?eg=
-MD5
-• e8bc243ac4ae938e0604e06d443d6b1c
-• c63a53ca2f6b8f9f69f8b83a755e0c50
-• 78536476caad3a296123df8e02269e41
-• 0656e9b1d8c663f737504aad73b6ccbb
-• 3d549342dfe86415366fcf595ea18a53
-• dca60bdb139be7a68537d4ca78efe72b
-• 3dfe29b2a0118759e89f0f7410339b66
-• cfee8bb258dcd41f64a3b16dcfdff5a2
-• ed4534c60abd771571af23d98d56ea3f
-• 5c9f2b56ab3724e2d31540c389484db8
-• 21fa5ed19431170026a28e19667b8eba
-• da15e8aa592ad3fd7a43bba187a4a706
-• a63012f7f5b25f026ac241343ed3d532
-• 84d1e828d24dd13fe360236c68043945
-• 7fe676ce7fa9db34f9e189da31d982f3
-• 10131fb4fd6b411ab3af4c637785de98
-• 9a7b33f6142bd13a766af27cda452c07
-• 3e9881b9c6ff4994fc9d684456694e77
-SHA1
-• 321972e4e72c5364ec1d5b9e488d15c641fb1819
+• authorisev[.]site
+• contemteny[.]site
+• dilemmadu[.]site
+• faulteyotk[.]site
+• forbidstow[.]site
+• goalyfeastz[.]site
+• opposezmny[.]site
+• seallysl[.]site
+• servicedny[.]site
 SHA256
-• 3ad40d85bfc81b7085c70c1772d171b08fbd351307e04bd4294c3208daaa5651
+• cdfbcb3d850713c49d451b3e80fb8507f86ba4ad9385e083c2a2bf8d11adc4fb
+• 1dcf3b607d2c9e181643dd6bf1fd85e39d3dc4f95b6992e5a435d0d900333416
+• d8ecc92571b3bcd935dcab9cdbeda7c2ebda3021dda013920ace35d294db07be
+• 00c68fb8bcb44581f15cb4f888b4dec8cd6d528cacb287dc1bdeeb34299b8c93
+• ce371a92e905d12cb16b5c273429ae91d6ff5485dda04bfedf002d2006856038
+• d04f71711e7749a4ff193843ae9ce852c581e55eaf29b8eec5b36c4b9c8699c2
+• 3bcd41e8da4cf68bb38d9ef97789ec069d393306a5d1ea5846f0c4dc0d5beaab
+• b978c70331fc81804dea11bf0b334aa324d94a2540a285ba266dd5bbfbcbc114
 
-FireScam Nuevo Malware Para Android
+Campaña de Phishing Distribuye el Criptominero XMRig
+
+IP
+• 93[.]115[.]172[.]41
+DOMAIN
+• cscrm-hiring[.]com
 URL
-• hxxps://rustore-apk[.]github[.]io/telegram_premium
-MD5
-• 5d21c52e6ea7769be45f10e82b973b1e
-• cae5a13c0b06de52d8379f4c61aece9c
+• hxxps://cscrm-hiring[.]com/cs-applicant-crm-installer[.]zip
+• hxxp://93[.]115[.]172[.]41/private/aW5zdHJ1Y3Rpb25zCg==.txt
 SHA256
-• b041ff57c477947dacd73036bf0dee7a0d6221275368af8b6dbbd5c1ab4e981b
-• 12305b2cacde34898f02bed0b12f580aff46531aa4ef28ae29b1bf164259e7d1
+• 96558bd6be9bcd8d25aed03b996db893ed7563cf10304dffe6423905772bbfa1
+• 62f3a21db99bcd45371ca4845c7296af81ce3ff6f0adcaee3f1698317dd4898b
 
+Ransomware FunkSec es Impulsado por Inteligencia Artificial
+
+SHA256
+• c233aec7917cf34294c19dd60ff79a6e0fac5ed6f0cb57af98013c08201a7a1c
+• 66dbf939c00b09d8d22c692864b68c4a602e7a59c4b925b2e2bef57b1ad047bd
+• dcf536edd67a98868759f4e72bcbd1f4404c70048a2a3257e77d8af06cb036ac
+• b1ef7b267d887e34bf0242a94b38e7dc9fd5e6f8b2c5c440ce4ec98cc74642fb
+• 5226ea8e0f516565ba825a1bbed10020982c16414750237068b602c5b4ac6abd
+• e622f3b743c7fc0a011b07a2e656aa2b5e50a4876721bcf1f405d582ca4cda22
+• 20ed21bfdb7aa970b12e7368eba8e26a711752f1cc5416b6fd6629d0e2a44e5d
+• dd15ce869aa79884753e3baad19b0437075202be86268b84f3ec2303e1ecd966
+• 7e223a685d5324491bcacf3127869f9f3ec5d5100c5e7cb5af45a227e6ab4603
 
 
 
