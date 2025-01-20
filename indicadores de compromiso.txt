@@ -1,133 +1,231 @@
 indicador de compromiso [IoC]
 
-Backdoor EAGERBEE Utilizado en Ataques Contra ISP
+
+
+Indicadores de Compromiso Investigadores Independientes
 
 IP
-• 62[.]233[.]57[.]94
-• 82[.]118[.]21[.]230
-• 194[.]71[.]107[.]215
-• 151[.]236[.]16[.]167
-• 5[.]34[.]176[.]46
-• 195[.]123[.]242[.]120
-• 195[.]123[.]217[.]139
-DOMAIN
-• www[.]socialentertainments[.]store
-• www[.]rambiler[.]com
-MD5
-• 183f73306c2d1c7266a06247cedd3ee2
-• 9d93528e05762875cf2d160f15554f44
-• c651412abdc9cf3105dfbafe54766c44
-• 26d1adb6d0bcc65e758edaf71a8f665d
-• cbe0cca151a6ecea47cfaa25c3b1c8a8
-• 35ece05b5500a8fc422cec87595140a7
-
-
-Gayfemboy Nueva Variante de la Botnet Mirai
-
-IP
-• 123[.]249[.]103[.]79
-• 123[.]249[.]109[.]227
-• 123[.]249[.]111[.]22
-• 123[.]249[.]116[.]30
-• 123[.]249[.]116[.]81
-• 123[.]249[.]126[.]147
-• 123[.]249[.]64[.]207
-• 123[.]249[.]68[.]177
-• 123[.]249[.]82[.]162
-• 123[.]249[.]82[.]229
-• 123[.]249[.]87[.]110
-• 123[.]249[.]90[.]104
-• 123[.]249[.]90[.]23
-• 123[.]249[.]91[.]159
-• 123[.]249[.]94[.]157
-• 123[.]249[.]99[.]231
-• 124[.]71[.]235[.]245
-• 176[.]97[.]210[.]250
-• 178[.]211[.]139[.]105
-• 178[.]211[.]139[.]196
-• 178[.]211[.]139[.]241
-• 185[.]16[.]39[.]37
-• 193[.]32[.]162[.]34
-• 193[.]34[.]214[.]123
-• 193[.]42[.]12[.]166
-• 194[.]50[.]16[.]198
-• 198[.]98[.]51[.]91
-• 198[.]98[.]54[.]234
-• 209[.]141[.]32[.]195
-• 209[.]141[.]51[.]21
-• 37[.]114[.]63[.]100
-• 45[.]128[.]232[.]200
-• 45[.]142[.]122[.]187
-• 45[.]142[.]182[.]126
-• 45[.]145[.]41[.]175
-• 45[.]148[.]10[.]230
-• 45[.]95[.]147[.]211
-• 5[.]181[.]188[.]158
-• 70[.]36[.]99[.]15
-• 77[.]90[.]22[.]10
-• 77[.]90[.]22[.]35
-• 94[.]156[.]10[.]163
-• 94[.]156[.]10[.]164
-• 95[.]214[.]53[.]211
-• 95[.]214[.]54[.]53
-
-Nuevo Troyano de Acceso Remoto NonEuclid RAT
-
-SHA256
-• d32585b207fd3e2ce87dc2ea33890a445d68a4001ea923daa750d32b5de52bf0
-• e1f19a2bc3ce5153e8dfe2f630cc43d6695fac73f5aaa59cd96dc214ca81c2b0
-
-Nueva Variante de Banshee Stealer Afecta Dispositivos macOS
-
-IP
-• 41[.]216[.]183[.]49
-DOMAIN
-• authorisev[.]site
-• contemteny[.]site
-• dilemmadu[.]site
-• faulteyotk[.]site
-• forbidstow[.]site
-• goalyfeastz[.]site
-• opposezmny[.]site
-• seallysl[.]site
-• servicedny[.]site
-SHA256
-• cdfbcb3d850713c49d451b3e80fb8507f86ba4ad9385e083c2a2bf8d11adc4fb
-• 1dcf3b607d2c9e181643dd6bf1fd85e39d3dc4f95b6992e5a435d0d900333416
-• d8ecc92571b3bcd935dcab9cdbeda7c2ebda3021dda013920ace35d294db07be
-• 00c68fb8bcb44581f15cb4f888b4dec8cd6d528cacb287dc1bdeeb34299b8c93
-• ce371a92e905d12cb16b5c273429ae91d6ff5485dda04bfedf002d2006856038
-• d04f71711e7749a4ff193843ae9ce852c581e55eaf29b8eec5b36c4b9c8699c2
-• 3bcd41e8da4cf68bb38d9ef97789ec069d393306a5d1ea5846f0c4dc0d5beaab
-• b978c70331fc81804dea11bf0b334aa324d94a2540a285ba266dd5bbfbcbc114
-
-Campaña de Phishing Distribuye el Criptominero XMRig
-
-IP
+• 195[.]201[.]179[.]80
 • 93[.]115[.]172[.]41
+• 91[.]227[.]33[.]146
+• 124[.]223[.]12[.]165
+• 104[.]21[.]64[.]1
+• 217[.]69[.]2[.]169
+• 104[.]21[.]32[.]1
+• 104[.]21[.]112[.]1
+• 104[.]21[.]48[.]1
+• 104[.]21[.]96[.]1
+• 104[.]21[.]80[.]1
+• 104[.]21[.]16[.]1
+• 81[.]19[.]135[.]54
+• 80[.]78[.]24[.]30
+• 75[.]2[.]115[.]196
 DOMAIN
 • cscrm-hiring[.]com
+• klipzyroloo[.]shop
+• learningypr[.]click
+• miningpoolstats[.]stream
+• ninedragonsfortress[.]com
+• sub172[.]duckdns[.]org
+• deduhko[.]klipzyroloo[.]shop
+• maguagency[.]site
+• knadorad[.]se
+• floradocs[.]live
+• alshamtech[.]nl
+• vidintroexam[.]com
+• app[.]vidintroexam[.]com
+• mailg-id[.]one
+• prepforce[.]site
+• atdfinancial[.]com
+• digitpotalent[.]com
+• helpdeskassistance[.]org
+• interviewhub[.]org
+• jobinterviewguide[.]org
+• mail[.]interviewhub[.]org
 URL
-• hxxps://cscrm-hiring[.]com/cs-applicant-crm-installer[.]zip
-• hxxp://93[.]115[.]172[.]41/private/aW5zdHJ1Y3Rpb25zCg==.txt
+• hxxp://124[.]223[.]12[.]165/
+• hxxps://solve[.]gevaq[.]com/awjxs[.]captcha?u=71723741-81f2-4e2f-915a-b3bed54203a6
+• hxxps://deduhko[.]klipzyroloo[.]shop/Grpc[.]eml
+• hxxps://deduhko[.]klipzyroloo[.]shop/dmg[.]xml
+• hxxps://learningypr[.]click/api
+• hxxp://93[.]115[.]172[.]41/private/aW5zdHJ1Y3Rpb25zCg==[.]txt
+• hxxp://93[.]115[.]172[.]41/private/aW5zdHJ1Y3Rpb25zCg==[.]txt200
+• hxxp://93[.]115[.]172[.]41/private/aW5zdHJ1Y3Rpb25zCg==[.]txtI
+• hxxp://93[.]115[.]172[.]41/private/aW5zdHJ1Y3Rpb25zCg==[.]txtP
+• hxxp://93[.]115[.]172[.]41/private/aW5zdHJ1Y3Rpb25zCg==[.]txtl
+• hxxp://93[.]115[.]172[.]41/private/aW5zdHJ1Y3Rpb25zCg==[.]txts
+• hxxp://93[.]115[.]172[.]41/private/aW5zdHJ1Y3Rpb25zCg==[.]txtthoS4=lS
+• hxxp://93[.]115[.]172[.]41/private/aW5zdHJ1Y3Rpb25zCg==[.]txtthoW4
+• hxxps://cscrm-hiring[.]com
+MD5
+• 5c3af727d6d617ee27ffaf370c57d67b
+• 0efc09853e7e0425ec0d61d368ae9694
+• c1cfc2402e9ebb22fbb49920ea02ea00
+• c5c47f7a17ef4533d1c162042aa0313b
+• e099255ea4aa8eb41e26e5d94737fc26
+• 834c7fd865eee5f7e17a3a1fb62e7051
+• da15e8aa592ad3fd7a43bba187a4a706
+• f0ac8625af9d1c712ab150214282fa9f
+• a2cce95c15e92389bdc9cae07f132788
+• bb1940d0bf95170692fa7337e9766611
+• 44512d17e8d71a3aeec8da8cdf680b03
+• c75950b998dadf88b17dfc8625ae95d5
+• b4354be1956161ffdbc27e5756f41f21
+• 0df3ec1c0794c8f7b417eecef9ea8089
+• e362b5c0e0b719c0096b264fdc4399a5
+• 6b1c50c8bfdaae57df937683a5a038fe
+• 62e37543d34e1c4fd6bd017c3fac6fd4
+• 7a717fa85914e3a886cf079844b6d28f
+• 3261184c6984c1a50cc75346ba0ce0bd
+• de1af0f734f3dd9c1ef9e086055fd208
+• 9e6fadfdabd20b53a4e70bcbab9b992a
+• e966480c3a245b9abd452e69a1425c48
+• e60b8f8e87b46332ef91841280030dfd
+• 8ad5e1ed879766450f1207116143bf60
+• 884e93bfc38c7810dd50b03df36a21d1
+• c3b9c8b07f7422818b268bbcf726a1a9
+• ccdff4b1fcc7f0bf1fee65fe759c2f63
+• 9ec644b8ee9774cffc1263fa6b34ec64
+• 834f137f9039041bccb4b414154a596c
+• b99bdb8880e4ef03727885ea50a4a2fc
+• 50fee1710bafba430433991f7965e35f
+• ab6a985dbef013596ac79ca5117ef77c
+• 86453f01deb226e67a4f0f24449ca301
+• fc5be86c846e93b0a65dd18849205514
+• b71956ba98abacf4b4dcc5a0453baaa2
+• 7486f1a88d6a3ae96fa08f882d452399
+• 0ffd99b46024863228e14efea8265ff2
+• 5eadd67bec799465fa27a17d6bf93e2d
+• 7bf5cbca413b327c655e2270645955d9
+• feb81a8d7e0f91d6f74b440cdd3c2f28
+• 436c014614477e79696e838d6b605f4e
+• 6c5fd48b7792ca6ec04ab198a2293271
+• f59d26d27cbab79fe84ef2e7e3b718f9
+• e58ed2788bada8d807ebb29e18d86f86
+• 7d6b277566cd13c79fc985cd532837ae
+• c7772c032f1b3e557b8698bdffe90a33
+• 8efb179c2ceac91ef7f8c68649efebd3
+• df4417ad455d80fa25493eed05d9577c
+• 38238f601b8762a5f8ff00fcd740c614
+• 9e2a32ed90087768cbb9c784353c441f
+• 6bec07043fc205ed50810bb9316c8148
+• e18f95c6c923ed60523e85204c21dd3e
+• 95c636b47af9e07f311f711c5328aeb8
+• 10021162a88f26f3823bcbf05c226747
+• 6c66564a78c47a3f871a80148b8c1d72
+• b163803130f466db74f68a19f9cee11e
+• 56f673b1d3d65dce3ef3c8754098df04
+• 4b807353dfbeadaddb392627e27470f9
+• e8139b0bc60a930586cf3af6fa5ea573
+• a1f4931992bf05e9bff4b173c15cab15
+• 08bd63480cd313d2e219448ac28f72cd
+• becad96938fc5fe700c1c829a371947a
+• fc5be86c846e93b0a65dd18849205514
+• 9e2a32ed90087768cbb9c784353c441f
+• 0952e14f5fcf7d08384bcf043a5deb4d
 SHA256
-• 96558bd6be9bcd8d25aed03b996db893ed7563cf10304dffe6423905772bbfa1
-• 62f3a21db99bcd45371ca4845c7296af81ce3ff6f0adcaee3f1698317dd4898b
+• 58e359ff8bbde3cbd193db871af6f2ac67d3f3f4e60c5986f423992df098e9e1
+• 96f086a38773dab616973d130ab3268762435ce95e5c55876a30901c4a40fbd2
+• e82de6b368baabcc81ce3316a319f27173e82b9c2e94a043bf42b62458dc5a98
+• b404ee84e4b5100561bc108c58aedc06cae277cd220067dce59a3c1cc93a3ac1
+• 2b0d8d41f4af45a388cc70677463a010e71e31a5ba6baadae68a83004558415c
+• 2fbeb35402b8e7d05d2d1265de6b4645878698193024fa2c8e8e5ad86fb637e4
+• 930a09e6ee090e9f2b67e1a37270b4c31e3cb4fdad55cd8db34b11519759f145
+• 09dd3ed3ecfe134067a2f8b6640cfbc3c3b702a0714328856d2f6b7459342048
+• fee13de12fa1b999c2dd19aa6da9272d2b955ccf7139ec46350374d77975eef2
+• 4154e02a0d922fefb72812b972808dbf6c3f0a9108f577b641c9a57cf8d8d342
+• f64fd24b1ed93b6a39e59aebf0fa3ed6ede6f1fd2dbae2e33c4da9ed92defd6e
+• b0c71e2b19b3cde4f32ccf2159ab94beca188ffab5d761f2d610989821c772c3
+• ffac95298176d8441ae088c6d5e95b0892afa9768876d3c749404eb31d4b4b6a
+• 25e947b199af51b580a7bc98e1ecea3dfdb1bac24403757a8e832adfb52f6738
+• 242bcd645791e2e5892c80260c2e517f91d218d5cb5846bc1f18e1874b08aea0
+• 9a42d4f5f028c4f7da66edef20c02bb4c36a1970b1084924bf462057a6aef118
+• 229385fbe03dd8ab9489ee1f0f4a5916b89be800aa27b7d563b63080211235a9
+• 2a8290c18d10fa8a7e99575855b9fb8e734ea92b1aa7dce9840282c2657ba08c
+• c00a71c9ff5e42b9ed80e99a3c115350fb956ed6253c48fa2c0d749c7ed9a844
+• 629618eb8225361b068a11ce07f46eefd0ce4098266f274f0d56b75fb5a77321
 
-Ransomware FunkSec es Impulsado por Inteligencia Artificial
+Campaña de Phishing Compromete Cuentas de Google Ads
 
+DOMAIN
+• account-costumers[.]site
+• account-worda-ads[.]benephica[.]com
+• account-worda-ads[.]cacaobliss[.]pt
+• account[.]universitas-studio[.]es
+• accounts-ads[.]site
+• accounts[.]google[.]lt1l[.]com
+• accounts[.]goosggles[.]com
+• accounts[.]lichseagame[.]com
+• accousnt-ads[.]tmcampos[.]pt
+• accousnt[.]benephica[.]pt
+• accousnt[.]hyluxcase[.]me
+• accousnt[.]whenin[.]pt
+• ads-goo[.]click
+• ads-goog[.]link
+• ads-google[.]io-es[.]com
+• ads-overview[.]com
+• ads1.google.lt1l.com
+• ads1[.]google[.]veef8f[.]com
+• adsettings[.]site
+• adsg00gle-v3[.]vercel[.]app
+• adsgsetups[.]shop
+• advertsing-acess[.]site
+• advertsing-v3[.]site
+• as[.]vn-login[.]shop
+• benephica[.]pt
+• cacaobliss[.]pt
+• colegiopergaminho[.]pt
+• docs-pr[.]top
+• tmcampos[.]pt
+• vietnamworks[.]vn-login[.]shop
+
+
+Un Vistazo del Ransomware Trinity 
+
+MD5
+• 949c438e4ed541877dce02b38bf593ad
+SHA1
+• 4c58d2d624d9bdf6b14a6f8563788785074947a7
 SHA256
-• c233aec7917cf34294c19dd60ff79a6e0fac5ed6f0cb57af98013c08201a7a1c
-• 66dbf939c00b09d8d22c692864b68c4a602e7a59c4b925b2e2bef57b1ad047bd
-• dcf536edd67a98868759f4e72bcbd1f4404c70048a2a3257e77d8af06cb036ac
-• b1ef7b267d887e34bf0242a94b38e7dc9fd5e6f8b2c5c440ce4ec98cc74642fb
-• 5226ea8e0f516565ba825a1bbed10020982c16414750237068b602c5b4ac6abd
-• e622f3b743c7fc0a011b07a2e656aa2b5e50a4876721bcf1f405d582ca4cda22
-• 20ed21bfdb7aa970b12e7368eba8e26a711752f1cc5416b6fd6629d0e2a44e5d
-• dd15ce869aa79884753e3baad19b0437075202be86268b84f3ec2303e1ecd966
-• 7e223a685d5324491bcacf3127869f9f3ec5d5100c5e7cb5af45a227e6ab4603
+• 36696ba25bdc8df0612b638430a70e5ff6c5f9e75517ad401727be03b26d8ec4
 
 
+Campaña de Ciberespionaje Utiliza el Malware HATVIBE
 
 
+IP
+• 2[.]58[.]15[.]158
+• 213[.]159[.]79[.]56
+• 38[.]180[.]207[.]137
+• 38[.]180[.]206[.]61
+DOMAIN
+• background-services[.]net
+• lookup[.]ink
+• download-resourses[.]info
+SHA256
+• 06e4084e2d043f216c0bc7931781ce3e1cea4eca1b6092c0e34b01a89e2a6dea
+• 3b87dc25a11b6268019d5eae49a6b93271dfdc262f2607cfefa35d196f724997
+• 47092548660d5200ea368aacbfe03435c88b6674b0975bb87a124736052bd7c3
+• 6edf3d03bd38c800d5d1e297d59c2496968202358f4be47e1f07e57a52485e0c
+• c61e9326421d05d62cafd6c04041ab1a8f57c0a21d424b9ca04b6a1fc275af19
+• e3a0be8852d77771dc3f44f3e9a051e7fe56547b569aad5a178ae44ef31713b9
+• e440bad60823642e8976528bd450364ce2542d15a69778ff20996eb107158b8d
+• efc99e6f3cdd10313c52a8ad099424e3f39ab85b75375b8db82717d61c7f0118
+• fd78051817b5e2375c92d14588f9a4ba1adc92cc1564e55e6150ae350ed6c889
 
+Explotación de Vulnerabilidad en AviatrixController Para Instalar Backdoor
+
+IP
+• 91[.]193[.]19[.]109
+SHA1
+• 1ce0c293f2042b677cd55a393913ec052eded4b9
+• 68d88d1918676c87dcd39c7581c3910a9eb94882
+• c4f63a3a6cb6b8aae133bd4c5ac6f2fc9020c349
+• c63f646edfddb4232afa5618e3fac4eee1b4b115
+• e10e750115bf2ae29a8ce8f9fa14e09e66534a15
+
+Nuevo Rootkit Para CentOS Linux 
+SHA256
+• 8D016D02F8FBE25DCE76481A90DD0B48630CE9E74E8C31BA007CF133E48B8526
+• 6EDD7B3123DE985846A805931CA8EE5F6F7ED7B160144AA0E066967BC7C0423A
+• D57A2CAC394A778E19CE9B926F2E0A71936510798F30D20F207F2A49B49CE7B1
