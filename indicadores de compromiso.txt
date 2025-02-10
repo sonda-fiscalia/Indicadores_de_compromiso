@@ -1,407 +1,475 @@
 indicador de compromiso [IoC]
 
 
-Código Compartido Entre el Ransomware HellCat y Morpheus
+Campaña de Phishing Afecta Usuarios de Microsoft Ads
 
-SHA1
-• b834d9dbe2aed69e0b1545890f0be6f89b2a53c7
-• f62d2038d00cb44c7cbd979355a9d060c10c9051
-• f86324f889d078c00c2d071d6035072a0abb1f73
+DOMAIN
+• 30yp[.]com
+• aboutadvertselive[.]com
+• aboutblngmicro[.]cloud
+• account-microsoft[.]online
+• account-microsoft[.]site
+• account-mircrosoft-ads[.]com
+• account[.]colndcx-app[.]com
+• accounts-ads[.]site
+• accounts-mircrosoft-ads[.]online
+• acount-exchang[.]store
+• admicrosoft[.]com
+• admicrsdft[.]com
+• ads-adversitingb[.]com
+• ads-dsas[.]site
+• ads-microsoft[.]click
+• ads-microsoft[.]coachb-learning[.]com
+• ads-microsoft[.]live
+• ads-microsoft[.]lubrine[.]com[.]br
+• ads-microsoft[.]online
+• ads-microsoft[.]shop
+• ads-microsoftz[.]online
+• ads-miicrosoft[.]com
+• ads-mlcrosft[.]com
+• ads-mlcrosoft-com[.]blokchaln[.]com
+• ads[.]microsoft[.]com[.]euroinvest[.]ge
+• ads[.]mlcr0soft[.]com
+• ads[.]mlcrosoft[.]com[.]ciree[.]com[.]br
+• ads[.]mlcrosoft[.]com[.]poezija[.]com[.]hr
+• ads[.]rnlcrosoft[.]com[.]euroinvest[.]ge
+• adslbing[.]com
+• adsmicro[.]exchangefastex[.]cloud
+• adsmicrosoft[.]shop
+• adsverstoni[.]com
+• advertiseliveonline[.]com
+• advertising-bing[.]site
+• advertising-mlcrosoft[.]org
+• adverts2023[.]online
+• advertsingsinginbing[.]com
+• agency-wasabi[.]com
+• app[.]beefylswap[.]top
+• bîlkub[.]com
+• bing-ads[.]com
+• bing[.]login-acount[.]me
+• bitmax-us[.]com
+• blngad[.]online
+• blseaccount[.]cloud
+• bltrue[.]colnhouse-fr[.]us
+• côinlíst[.]online
+• colneex-plalform[.]cloud
+• connec-exchan[.]site
+• digitechmedia[.]agency
+• forteautomobile[.]com
+• global-verifications[.]com
+• global-verify[.]com
+• homee-acount[.]com
+• itlinks[.]com[.]cn
+• krakeri-login[.]com
+• login-adsmicrosoft[.]helpexellent[.]com
+• login[.]adsadvertising[.]online
+• login[.]microsofttclicks[.]live
+• micrasofit[.]xyz
+• microosft[.]accounts-ads[.]site
+• microsoft-ads[.]website
+• microsoftadss[.]com
+• microsoftadversiting[.]cloud
+• microsoftbingads[.]com
+• microsofyt[.]adversing-publicidade[.]pro
+• mictrest[.]mnws[.]ru
+• mlcrosoft-bing-acces[.]click
+• mlcrosoftadvertlsing[.]online
+• mudinhox[.]site
+• ndnet[.]shop
+• phlyd[.]com
+• portfoliokrakenus[.]com
+• portfoliolkraken[.]com
+• portfoliopro-us[.]com
+• portfolioskranen[.]com
+• portofolioprospots[.]com
+• potfoliokeiolenen[.]com
+• potfoliokelaken[.]com
+• potfoliokelaneken[.]com
+• potfoliokenaiken[.]com
+• potfoliokenkren[.]com
+• potfolioketonelen[.]com
+• potfolioskaneken[.]com
+• potfolioskenaken[.]com
+• potfolioskraineken[.]com
+• potfolioskranaken[.]com
+• potfolioskraneken[.]com
+• pro-digitalus[.]com
+• prokrakenportfolio[.]com
+• rnlcrosoft[.]smartlabor[.]it
+• sig-in-mlcrosoft-advertisings[.]site
+• uiiadvertise[.]online
+• wvvw-microsoft[.]xyz
+• www-bingads[.]com
+• www-microsoftsads[.]com
+• www-v[.]userads[.]digital
+• www34[.]con-webs[.]com
+• www55[.]con-webs[.]com
+• ads-microsoft[.]bewears[.]com
+• ads[.]msicrosoft[.]com
 
-
-AIRASHI una Variante de la Botnet AISURU
+Grupo Crazy Evil Utiliza el Malware RedLine, Raccoon Stealer y Vidar
 
 IP
-• 190[.]123[.]46[.]21
-• 190[.]123[.]46[.]55
-• 95[.]214[.]52[.]167
-• 162[.]220[.]163[.]14
+• 178[.]22[.]31[.]97
+• 141[.]98[.]9[.]20
 DOMAIN
-• xlabresearch[.]ru
-• xlabsecurity[.]ru
-• foxthreatnointel[.]africa
-SHA1
-• 3c33aa8d1b962ec6a107897d80d34a5d0b99899e
-• 0339415f8f3e2b1eb6b24ed08c3a311210893a6e
-• 95c8073cc4d8b80ceddb8384977ddc7bbcb30d8c
-• 08b30f5ffa490e15fb3735d69545c67392ea24e9
-• c8b8bd5384eff0fe3a3a0af82c378f620b7dc625
+• tokenframegovernance[.]com
+• voxiumcalls[.]com
+• voxium[.]eu
+• voxiumhub[.]com
+• voxium[.]cloud
+• rocketgalaxy[.]io
+• rocketgalaxy[.]xyz
+• rocketgalaxyworld[.]com
+• playrocketgalaxy[.]com
+• rocketlegacy[.]xyz
+• ccdcompany[.]online
+• ultima-dapp[.]online
+• ultimadapp[.]online
+• solanasms[.]com
+• watcherbot[.]xyz
+• secretum[.]io
+• iiyoiiyo[.]com
+• typerdex[.]ai
+• typerdex[.]io
+• typerdex[.]team
+• typerdex[.]com
+• demeet[.]app
+• demeetapp[.]com
+• demeet[.]site
+• demeet[.]online
+• app[.]us4zoom[.]us
+• app-whechat[.]com
+• selenium[.]fi
+• gatherum[.]ca
+• gatherum[.]net
+• gatherum[.]one
+• gatherum[.]cc
 
-Constructor Trojanizado de XWorm RAT Dirigido a Script Kiddies
+Nuevo troyano Bancario Coyote
 
-MD5
-• 4904329d091687c9deb08d9bd7282e77
-• a21db5b6e09c3ec82f048fd7f1c4bb3a
-SHA1
-• bcf7fcebb52cad605cb4de65bdd077e600475cc7
-• e7ffb13176d60b79d0b3f60eaea641827f30df64
-SHA256
-• 67d9b4b35c02a19ab364ad19e1972645eb98e24dcd6f1715d2a26229deb2ccf5
-• e92707537fe99713752f3d3f479fa68a0c8dd80439c13a2bb4ebb36a952b63fd
-
-Malware Qbot Regresa con Nuevas Técnicas 
-
-IP
-• 146[.]19[.]128[.]138
-• 80[.]66[.]89[.]100
 DOMAIN
-• vector123[.]xyz
-• upd5[.]pro
-SHA256
-• 22c5858ff8c7815c34b4386c3b4c83f2b8bb23502d153f5d8fb9f55bd784e764
-• 98d38282563c1fd09444724eacf5283626aeef36bcb3efa9d7a667db7314d81f
-• c8bddb338404a289ac3a9d6781d139314fab575eb0e6dd3f8e8c37410987e4de
-• 651e49a45b573bb39e21746cb99fcd5d17679e87e04201f4cc6ca10ff2d166e4
-• 4cad17ef867f03081eb690b1c16d7f4d5c937c3f20726af0442d7274413e3620
-• a197804c6ae915f59add068e862945b79916c92a508c0287a97db718e72280a3
-
-MintsLoader Distribuye el Malware StealC
-
-IP
-• 145[.]223[.]100[.]233
-• 67[.]217[.]228[.]118
-• 62[.]204[.]41[.]177
-• 45[.]61[.]136[.]138
-DOMAIN
-• rosettahome[.]top
-• xaides[.]com
-• usbkits[.]com
-• hkinuxb3bz[.]top
-• mubuzb3vvv[.]top
-• nfuvueibzi4[.]top
-• mnudybh4unh[.]top
-• nuvye89bjz4[.]top
-• mbuz73hb7z3[.]top
-• tubnzy3uvz[.]top
-• nubxz4ubhxz9i[.]top
-• poeiughybzu222[.]top
-• poubnxu3jubz[.]top
-• lgbibzuehbz[.]top
-• ohunhebzhbu3[.]top
-• sdubvlbbuz3vzzz[.]top
-• bnbuzu49ibz4[.]top
-• shd9inbjz4[.]top
-• ngub8zb38ib[.]top
-• gkn33hxueub[.]top
-• mnvuz3gvy3[.]top
-• jhubzgv3[.]top
-• adkfnnbmakcgael[.]top
-• hhgiflifcbmdjmh[.]top
-• blclmjamegjaffd[.]top
-• iblaehgffmflamn[.]top
-• bfhdkgmmhdbikgj[.]top
-• jjdgdeffjimfgne[.]top
-• canjjclmlnicbga[.]top
-• jejmbadfmeenlnk[.]top
-• diebinjmajbkhhg[.]top
-• kmaealcfcalhcac[.]top
-• dckhgjimeghemhl[.]top
-• lggknhaffleahbh[.]top
-• ekbnfghmhcaldid[.]top
-• lalclenfjhkinbn[.]top
-• feheecfmkmhfiij[.]top
-• midhkalfmddcece[.]top
-• fnnkcnemajnnaja[.]top
-• mdinjlkfcajkjck[.]top
-• ghecbjcmdfghfkg[.]top
-• nlafhhiffkceadc[.]top
-• gbkiafbmhbmbkkl[.]top
-• afglgehgjgjmgdh[.]top
-• hjbamcnnkmfjbld[.]top
-• anldfaggmdbglen[.]top
-• idhglmmnaimdhlj[.]top
-• bidjdlegcnincee[.]top
-• immmjjkndeekmma[.]top
-• ccibchdgfjbhhfk[.]top
-• jgeeifjnhbledmg[.]top
-• ckahaebgighbngc[.]top
-• afnfdijahijefmh[.]top
-• kcehmenjdibnmni[.]top
-• kdemjgebjimkanl[.]top
-• gajaechkfhfghal[.]top
-• cmacnnkfbhlcncm[.]top
+• geraatualiza[.]com
+• masterdow[.]com
+• geraupdate[.]com
 URL
-• hxxps://t1jm05fdu6748emu5oon8nix1uk2ogyn[.]lovesnextmeeting[.]com/Uswl5JAnXI
-• hxxp://mubuzb3vvv[.]top/1[.]php?s=527
-• hxxp://62[.]204[.]41[.]177/edd20096ecef326d[.]php
+• hxxps://btee[.]geontrigame[.]com/mvkrouhawm
+• hxxps://qmnw[.]daowsistem[.]com/fayikyeund
+• hxxps://bhju[.]daowsistem[.]com/iwywybzqxk
+• hxxps://lgfd[.]daowsistem[.]com/riqojhyvnr
+• hxxps://leme[.]daowsistem[.]com/omzowcicwp
+• hxxps://igow[.]scortma[.]com/fqieghffbm
+• hxxps://quit[.]scortma[.]com/xzcpnnfhxi
+• hxxps://llue[.]geontrigame[.]com/byyyfydxyf
+• hxxps://cxmp[.]scortma[.]com/qfutdbtqqu
+• hxxps://xrxw[.]scortma[.]com/gmdroacyvi
+• hxxps://qfab[.]geontrigame[.]com/vfofnzihsm
+• hxxps://tbet[.]geontrigame[.]com/zxchzzmism
+• hxxps://yezh[.]geontrigame[.]com/vxewhcacbfqnsw
 SHA256
-• B8804a7ef09a9c1e8ede3a86a087b754b42f5b37c6de1e82c86f38d01c297ee2
-• 138d2a62b73e89fc4d09416bcefed27e139ae90016ba4493efc5fbf43b66acfa
-• 91e405e8a527023fb8696624e70498ae83660fe6757cef4871ce9bcc659264d3
+• 362af8118f437f9139556c59437544ae1489376dc4118027c24c8d5ce4d84e48
+• 330dffe834ebbe4042747bbe00b4575629ba8f2507bccf746763cacf63d655bb
+• 33cba89eeeaf139a798b7fa07ff6919dd0c4c6cf4106b659e4e56f15b5809287
+• 552d53f473096c55a3937c8512a06863133a97c3478ad6b1535e1976d1e0d45f
+• 64209e2348e6d503ee518459d0487d636639fa5e5298d28093a5ad41390ef6b0
+• 67f371a683b2be4c8002f89492cd29d96dceabdbfd36641a27be761ee64605b1
+• 73ad6be67691b65cee251d098f2541eef3cab2853ad509dac72d8eff5bd85bc0
+• 7cbfbce482071c6df823f09d83c6868d0b1208e8ceb70147b64c52bb8b48bdb8
+• 839de445f714a32f36670b590eba7fc68b1115b885ac8d689d7b344189521012
+• bea4f753707eba4088e8a51818d9de8e9ad0138495338402f05c5c7a800695a6
+• f3c37b1de5983b30b9ae70c525f97727a56d3874533db1a6e3dc1355bfbf37ec
+• fd0ef425d34b56d0bc08bd93e6ecb11541bd834b9d4d417187373b17055c862e
 
-Campaña de Malware Utiliza PureCrypter, Agent Tesla y TorNet Backdoor
+Atomic, Poseidon y Cthulhu Stealer Infostealers Dirigidos a Usuarios de macOS
+
+IP
+• 94[.]142[.]138[.]177
+• 194[.]169[.]175[.]117
+• 194[.]59[.]183[.]241
+• 70[.]34[.]213[.]27
+SHA256
+• 599e6358503a0569d998f09ccfbdeaa629d8910f410e26df0ffbd68112e77b05
+• a33705df80d2a7c2deeb192c3de9e7f06c7bfd14b84f782cf86099c52a8b0178
+• cfa8173e681bf6866e06b1a971dab03954b28d3626d96ac0827c5f261e7997cd
+• 831f80f6e6f7be8352aba0b54b3e55ade63f8719c7e6f8cfa19ee34af5a07deb
+• a9fe32498f6132b9c39ae16524bdb3d71b451017a2d3acf117416a0dc9a89ce5
+• 3eac9c66a712f74d9e93e24751220a74b2c7e5320c74f1f7b4931d8181c7f26c
+• 9f4f286e5e40b252512540cc186727abfb0ad15a76f91855b1e72efb006b854c
+• 5880430d86d092ac56bfa4aec7e245e3d9084e996165d64549ccb66b626d8c56
+• 0bb4ba056d64fff21d13b53b5c1bd5ccb89bed27e66e2b7ff60ddcf47c1342b4
+• 1b9b929e63be771393b6a4e526930eedb78f279174711bd2f19dfa8545f6e714
+• c4e7320945caf9dc4dca11f6ad0170bc6fc2148de0cdc8aa15a236b248165d39
+• a8aa1d7f940f0a8ccd516e52232b103d343826e13df9e4d9567f75e996683886
+• 09852c1f67939efad0f0baeead5d23dc9cd53eec0f1f6069f041dfd4e0e83c3f
+• b94067535123dd236a075d54afa34fef80324f7d1375f55c29ca70393e6492b2
+• 9390108ca021b5f5c8c25849c1d6903c8a30568e822ce22e01e96381ea2df3b5
+• 2d232bd6a6b6140a06b3cf59343e3e2113235adcf3fb93e78fa3746d9679cfc3
+• d8d29c2906145771e1c12d6520a826c238d5672f256779326ba38859dfb9cf4c
+• 6483094f7784c424891644a85d5535688c8969666e16a194d397dc66779b0b12
+• a772451ddd6897c00ce766949fc82e30cfb64a6b31b44bfd9068a76ab99dd188
+• ad32e638216b859855f78a856f8f4e3aea66add550619a4bde08754e2c218186
+• dd831c4aaaceb9f063642ae729956a716e29e0c5452526996e92959cca820914
+• 57ece6ae15a8d16a24bad097b4455dc6aec4a24c139d62d05c59330620c3e90e
+• 93f33e76c57240dda2b80b0270ad867a4c77ee7ad4ac135d086398e789e4dbc9
+
+Ataques de Phishing Dirigidos a Cuentas de la Plataforma X
 
 DOMAIN
-• italzformendinggallores[.]duckdns[.]org
-• humblecrazeforeal8897[.]accesscam[.]org
-• sertiscoppersail432[.]freeddns[.]org
-• moristaetdfertal9002[.]ddnsgeek[.]com
-• paradoncalleke5689[.]camdvr[.]org
-• greeslieforreallcul5672[.]casacam[.]net
-• blissfulzerooooos690[.]ddnsfree[.]com
-• www[.]blissfulzerooooos690[.]ddnsfree[.]com
+• buy-tanai[.]com
+• dataoptimix[.]com
+• gamecodestudios[.]com
+• infringe-x[.]com
+• protection-x[.]com
+• rewards-dawn[.]com
+• securelogins-x[.]xyz
+• shortwayscooter[.]com
+• violationappeal-x[.]com
+• violationcenter-x[.]com
+• x-accountcenter[.]com
+• x-changealerts[.]com
+• x-logincheck[.]com
+• x-loginhelp[.]com
+• x-passwordrecovery[.]com
+• x-recoveraccount[.]com
+• x-suspiciouslogin[.]com
+SHA1
+• e2221e5c58a1a976e59fe1062c6db36d4951b81e
+
+Campaña de Malware Distribuye el Troyano AsyncRAT
+
+IP
+• 62[.]60[.]190[.]141
+• 62[.]60[.]190[.]196
 URL
-• hxxps://sanel[.]net[.]pl/filescontentgalleries/pictorialcoversoffiles/Sjydgbr[.]pdf
-• hxxps://sanel[.]net[.]pl/filescontentgalleries/pictorialcoversoffiles/Guwasd[.]dat
-• hxxps://sanel[.]net[.]pl/filescontentgalleries/pictorialcoversoffiles/Fwudzwsfsp[.]wav
-• hxxps://sanel[.]net[.]pl/filescontentgalleries/pictorialcoversoffiles/Dyvfi[.]dat
-• hxxps://sanel[.]net[.]pl/filescontentgalleries/pictorialcoversoffiles/Iicivjzqdma[.]mp3
-• hxxps://sanel[.]net[.]pl/filescontentgalleries/pictorialcoversoffiles/Dewsmwflw[.]vdf
-• hxxps://sanel[.]net[.]pl/filescontentgalleries/pictorialcoversoffiles/Xlkythleoq[.]pdf
-• hxxps://sanel[.]net[.]pl/filescontentgalleries/pictorialcoversoffiles/Zerwfilj[.]pdf
-• hxxps://sanel[.]net[.]pl/filescontentgalleries/pictorialcoversoffiles/Sfrnotlay[.]mp3
-• hxxps://sanel[.]net[.]pl/filescontentgalleries/pictorialcoversoffiles/Jovjvwp[.]wav
-• hxxps://sanel[.]net[.]pl/filescontentgalleries/pictorialcoversoffiles/Vmoeykn[.]pdf
-• hxxps://sanel[.]net[.]pl/filescontentgalleries/pictorialcoversoffiles/Wyvmy[.]wav
-• hxxp://sanel[.]net[.]pl/filescontentgalleries/pictorialcoversoffiles/Zafvlztxj[.]vdf
-• hxxps://sanel[.]net[.]pl/filescontentgalleries/pictorialcoversoffiles/Gikwomjv[.]wav
-• hxxps://sanel[.]net[.]pl/filescontentgalleries/pictorialcoversoffiles/Zafvlztxj[.]vdf
-• hxxps://sanel[.]net[.]pl/filescontentgalleries/pictorialcoversoffiles/Qecvodcnuz[.]wav
-• hxxps://sanel[.]net[.]pl/filescontentgalleries/pictorialcoversoffiles/Hlynogyqp[.]dat
-• hxxps://sanel[.]net[.]pl/filescontentgalleries/pictorialcoversoffiles/Uvkoiguq[.]dat
-• hxxps://sanel[.]net[.]pl/filescontentgalleries/pictorialcoversoffiles/Awtvbihi[.]vdf
-• hxxps://sanel[.]net[.]pl/filescontentgalleries/pictorialcoversoffiles/Oqjhea[.]mp3
-• hxxps://sanel[.]net[.]pl/filescontentgalleries/pictorialcoversoffiles/Ztpcwfowiiu[.]wav
-• hxxps://sanel[.]net[.]pl/filescontentgalleries/pictorialcoversoffiles/Bonhowau[.]mp4
-• hxxps://sanel[.]net[.]pl/filescontentgalleries/pictorialcoversoffiles/Qcqvzdtpln[.]pdf
-• hxxps://sanel[.]net[.]pl/filescontentgalleries/pictorialcoversoffiles/Jlhwfgnnyms[.]wav
-• hxxps://sanel[.]net[.]pl/filescontentgalleries/pictorialcoversoffiles/Otmaq[.]mp4
-• hxxps://sanel[.]net[.]pl/filescontentgalleries/pictorialcoversoffiles/Elxrh[.]vdf
-• hxxps://sanel[.]net[.]pl/filescontentgalleries/pictorialcoversoffiles/Rxmjavdc[.]mp3
-• hxxp://sanel[.]net[.]pl/filescontentgalleries/pictorialcoversoffiles/Elxrh[.]vdf
-• hxxps://sanel[.]net[.]pl/filescontentgalleries/pictorialcoversoffiles/Cfyenm[.]mp4
-• hxxps://sanel[.]net[.]pl/filescontentgalleries/pictorialcoversoffiles/Bibyep[.]mp4
-• hxxps://sanel[.]net[.]pl/filescontentgalleries/pictorialcoversoffiles/Lcrakntjck[.]pdf
-• hxxps://sanel[.]net[.]pl/filescontentgalleries/pictorialcoversoffiles/Atcbgl[.]mp4
-• hxxps://sanel[.]net[.]pl/filescontentgalleries/pictorialcoversoffiles/Rspfqdltykq[.]mp3
-• hxxps://sanel[.]net[.]pl/filescontentgalleries/pictorialcoversoffiles/Fxsovxc[.]pdf
-• hxxps://sanel[.]net[.]pl/filescontentgalleries/pictorialcoversoffiles/Bnvqyotgu[.]mp3
-• hxxps://sanel[.]net[.]pl/filescontentgalleries/pictorialcoversoffiles/Rmtafnw[.]mp3
-• hxxps://sanel[.]net[.]pl/filescontentgalleries/pictorialcoversoffiles/Lmshcchh[.]wav
-• hxxps://sanel[.]net[.]pl/filescontentgalleries/pictorialcoversoffiles/Ibesc[.]wav
-• hxxps://cud-senegal[.]org/post-postlogin/Oojhwcym[.]wav
-• hxxps://cud-senegal[.]org/post-postlogin/Cpoewtupeck[.]mp4
-• hxxps://cud-senegal[.]org/post-postlogin/Nrileknnlgv[.]vdf
-• hxxps://cud-senegal[.]org/post-postlogin/Izevzxvwkpf[.]pdf
+• hxxps://inventory-card-thumbzilla-ip[.]trycloudflare[.]com/DE/
+• hxxps://mercy-synopsis-notify-motels[.]trycloudflare[.]com/ma[.]zip
+• hxxp://sufficiently-points-est-minimize[.]trycloudflare[.]com/ma[.]zip
+SHA1
+• 55724b766dd1fe8bf9dd4cb7094b83b88d57d945
+• 0aa1b8fba8d7bd19a0064edfdf86c027da253644
+• 659ecdeb19b8e49be61fe41e8796d1215272b16e
+• cd61de9e4003ba568ae76f064935addb106a6d6d
+• 0221ec304905a758d9b47d6a631622b7dcf3c1f5
+• 4747ee49bdf31351c025049d8c3b7fef831be77c
+• 8ef36a4865f4a73a4e8fe4b90e5eff4a7feb3647
+• ae1dece09c2b627d8d3fe1c1f758db9ca6d5820c
+• 8dc9071a46a019547c8355a155d9c3c3b154e7a2
+• 098c369c904e8c328df40062190aff009e02d369
+• ff6186eef1c17a2668c6013d38fecead4f507556
+
+Nueva Ataques del Malware ValleyRAT
+
+IP
+• 149[.]115[.]250[.]19
+• 8[.]217[.]244[.]40
+• 154[.]82[.]85[.]79
+• 149[.]115[.]250[.]19
+• 118[.]107[.]44[.]219
+• 43[.]250[.]172[.]42
+• 202[.]146[.]222[.]208
+• 103[.]183[.]3[.]10
+URL
+• hxxps://anizom[.]com/
+• hxxps://karlost[.]club/
 SHA256
-• 3b4e709768d7cd0cb895de74267f45a6ef6565ebed445393878f17ae02a983e3
-• 9d33726fc1d39fdc0426c70ed0cfb515e15f50d39c46d8ff38025b4faf8811dc
-• 75d2d368d735fca2bad0155510cb4a927f7f246ea72299395990027264056521
-• 84570dac910557d0d8217db746c9a8fd4a27cd3db89135731c7f3584b37df533
-• 7ce9af599857827317a444c5a63a08929ec97765bc2624076f4834f323a41da2
-• e9ab4772ba6de2db9add3d4bbd3ce0f2dd899f16399b57fd2a539769e6ee973a
-• 2f9c2e0bef460a7623954d65f10e6e5993c01d25e6f2905a5dc911639ca2ea75
-• dc513e35a6d96933e7af2b300782a32131d31445a6d1e2bbca9604128c92e7c6
-• 57543fd3673c9595a73c836b153faf68e23938662c5a4b6675205734b688ae95
-• 898d0451bd52c466d2284091be928f8ec1ced2184b205d903a04a747e67763ea
-• 53e7b3b72695a1eaea7146ec3cbd05d0ce2a1eba87f035ae07849feb4f59ec63
-• bff0ec65af8b2bb37fcc5202f823b5877ebdcc8efbd32e08f309cbcb4dc2570c
-• 6774a822d9c66951be95341d50c1f876a9373fefef52f68f29eaae4efc621817
-• c32d97fb9a1681a7bea3f417abde0264a2332221e317c8543e337baac9307c67
-• 075737b17ba72aed5f45d227bf91dd5744914308e1468717a8f3100a0cca8156
-• a85423a1a37f604e492ee58920178080f0da306750a356ddfe1b695c12becd07
-• 4a5b8442dc2b34a270acdcd8a14cce573d59dc0922c9e49cda8fe2dd8e4a3862
-• 80b80e15f605f0b8740e1989e505280394d746e8a8ee37cdb9b009d745e42da0
-• 4280eb4cfa0445a40d8e1dfafdc0eb24613f3536c5959270ef0079034b30e653
-• 2f1cb29e47c5b07fba3070d6a5339b00d2f3075eb7717438cf5cf53679793919
-• 252d9ed583bbd2e5d75ae5167feb393bd50b44933594f9586aaf5d9987cf78ec
-• edac6216665f1c8b0a09158abdd5e7fab63a386a1c9ad31ddd5ee92a6aa811fc
-• 13ac538c8c6696a59f890677cf451db77b7c33539da1d380640ce549b2b70ca4
+• 53A6735CE1ECA68908C0367152A1F8F3CA62B801788CD104F53D037811284D71
+• 6ED466A2A6EEB83D1FF32BA44180352CF0A9CCC72B47E5BD55C1750157C8DC4C
+• 311f2d4ef2598e4a193609c3cd47bf4ff5fb88907026946ecffe6b960d43d5b2
+• a87745682da20ddfd6eac7ff2d27fec73ff56c6e9b4438121dcb6ba699c5cb3c
+• 1db77692eaf4777f69ddf78c52424d81834572f1539ccea263d86a46f28e0cea
+• 3989f7fa8d1d59ebc6adea90e3958a892b47d94268bf9d5c9c96811f3fb65b00
+• 7c2a1b09617566ff9e94d0b1c15505213589f7fd3b445b334051d9574e52e0f5
+• bb89e401560ba763d1c5860dd51667ba17768c04d00270bf34abebac47fd040e
+• 968b976167b453c15097667b8f4fa9e311b6c7fc5a648293b4abd75d80b15562
 
 Indicadores de Compromiso Investigadores Independientes
 
-IP
-• 185[.]199[.]109[.]133
-• 82[.]115[.]223[.]9
-• 45[.]59[.]163[.]56
-• 5[.]135[.]5[.]48
-• 95[.]179[.]135[.]133
-• 65[.]20[.]101[.]215
 DOMAIN
-• Upscale[.]dmg
-• www-presidentsoffice-gov-lk[.]dytt888[.]org
-• rickardmetal[.]com
-• wiramulia[.]com
-• marcelotatuape[.]ddns[.]net
-• dc[.]crsorg[.]gov[.]in[.]veiwcertificate[.]mahakalwebhost[.]xyz
-• dc[.]crsorgi[.]gov[.]in[.]aryanprint[.]site
-• dc[.]crsorgi[.]gov[.]in[.]crsargi[.]life
-• dc[.]crsorgi[.]gov[.]in[.]sindex[.]site
-• dc[.]crsorgi[.]gov[.]in[.]sindexcrs[.]xyz
-• dc[.]crsorgi[.]gov[.]in[.]sindexcrsx[.]xyz
-• dc[.]crsorgi[.]gov[.]in[.]smartbabul[.]xyz
-• careerinterview360[.]com
-• topinnomastertech[.]com
-• dc[.]crsorgi[.]gov[.]in[.]verifycertificatecrs[.]live
-• dc[.]crsorgi[.]gov[.]in[.]sindex[.]in
+• gso2[.]mail163[.]info
+• donate[.]fallenminer[.]com
+• molejo[.]online
+• tazrn[.]animaliaoqisso[.]com
+• chuckchuck20g[.]ddns[.]net
+• explousemprefs[.]co
+• l1ve[.]larrainvials[.]net
+• chile[.]larrainvials[.]net
+• personas-santander[.]cl
+• account[.]larrainvials[.]net
+• d29sender[.]com
+• xleetshop[.]com
+• smtpshop[.]com
+• fudtool[.]com
+• 7x8yg[.]com
+• fudteambilling[.]com
+• shoutcast[.]uk
+• shoutbox[.]cc
+• yelling[.]cc
+• wrldsecurity[.]net
+• wrldsecurity[.]ru
+• pageturner[.]us
+• demo-374[.]pages[.]dev
+• rydox[.]cc
+• nightmarestresser[.]net
+• orbitalstress[.]net
+• popeyetools[.]com
+• popeyetools[.]co[.]uk
+• popeyetools[.]to
+• fivto[.]online
+
+• spasshik[.]xyz
+• cybercourt[.]io
+• vps-agent[.]net
+• inditechlab[.]com
+• allowdoorinto[.]com
+• divisionintro[.]com
+• ithostprotocol[.]com
+• hopanatech[.]com
+• wkjllc[.]com
+• tipstoway[.]com
+• londonshowcorp[.]com
+• incomcorporate[.]com
+• setitcloud[.]com
+• trustvaluespath[.]com
+• baijiapaintbrush[.]com
+• fastloginway[.]com
+• gateallowsearch[.]com
+• outviewmachine[.]com
+• tonywangtech[.]com
+• inthetrustview[.]com
+• cenforcep[.]com
+• cbdonlineww[.]com
+• verificationtrim[.]com
+• ghxsjyk[.]com
+• viewwaypath[.]com
+• finduscore[.]com
+• govdoorsec[.]com
+• cbdhempoilww[.]com
+• fasttruncatedoor[.]com
+• smartloginbreak[.]com
+• accutanebb[.]com
+• ivermectint[.]com
+• hempcbdww[.]com
+• wingscamein[.]com
+• gnibuprofen[.]com
+• myavtsim[.]com
+• cialismgz[.]com
+• delitky[.]com
+• webgovview[.]com
+• dompurifycheerio[.]com
+• toolpointtrim[.]com
+• newtransfersearch[.]com
+• gnfamotidine[.]com
+• maxlliance[.]com
+• smartscontract[.]com
+• waylogintexas[.]com
+• baricitinc[.]com
+• albuteroltab[.]com
+• defensedeptofficial[.]com
+• holylandherald[.]com
+• shadowwatch[.]us
+• truthgate[.]us
+• mypride[.]press
+• ukrlm[.]info
+• spiegel[.]agency
+• honeymoney[.]press
+• vip-news[.]org
+• 50statesoflie[.]media
+• fox-news[.]top
+• artichoc[.]io
+
+ waronfakes[.]com
+• pravda-ua[.]com
+• bild[.]work
+• rrn[.]media
+• levinaigre[.]net
+• uschina[.]online
+• leparisien[.]ltd
+• warfareinsider[.]us
+• acrosstheline[.]press
+• tagesspiegel[.]co
+• rbk[.]media
+• lexomnium[.]com
+• grenzezank[.]com
+• tribunalukraine[.]info
+• faz[.]ltd
+• meisterurian[.]io
+• lemonde[.]ltd
+• sueddeutsche[.]co
+• gnews[.]org
+• tw[.]gfashion[.]com
+• rolsociety[.]org
+• hpay[.]gfashion[.]com
+• dispossessor-cloud[.]com
+• dispossessor[.]com
+• pl8maker[.]com
+• unredactedcheapname[.]online
 URL
-• hxxps://82[.]115[.]223[.]182/payload/fickle_payload[.]ps1
-• hxxp://172[.]86[.]115[.]125/zzz/test[.]php
+• hxxps://atualizacao-bolsafam[.]org
+• hxxps://102[.]165[.]46[.]225
+• hxxp://5[.]61[.]50[.]177/files/
+• hxxp://5[.]61[.]58[.]167/files/
+• hxxp://5[.]61[.]50[.]177/files/DeepSeekSetup[.]msi
+• hxxp://5[.]61[.]58[.]167/files/DeepSeekSetup[.]msi
+• hxxps://downloads-dimension-loading-alpine[.]trycloudflare[.]com/
+• hxxps://coaches-revealed-everyday-bargain[.]trycloudflare[.]com/
 MD5
-• 9d68678aeee52684bbe3c983222b1da3
-• 54e6135dc4932256b7905391662a248b
-• f0f629302f4b792d7f0c1911bfd19711
-• 2f9d83960b2c88d96de70b4f15d600a4
-• 23f0d2665d2f4caed6c38fb56458492d
-• 7356aec71266d46244acfc5301a1178e
-• d7c14161a4db1ba05ff122c8ab8de836
-• 4138b847e20ed720b6c0eaf58b55fbe4
-• 4363e2a35467833b2b76d00ca3d47a0e
-• 50bcf9605850bf9f61c4f762e62ae58c
-• b7a9a7b10f5bd9b7db35c31136163138
-• 2c5322ad8ac6b33ed4751ea4636a134a
-• 46eae0ac01ddb2b25e366045a166f84a
-• 005277fccc94e59bcc80b2c0908e7651
-• 99852b66cf8e32e9a26cce30d29a7159
-• 482b0b4a853f35585d478d4b0e1373b8
-• 588467ebab23179620c45223d4f90a93
+• b86aacec897b8376c23647c4f0e78fba
+• 15796971d60f9d71ad162060f0f76a02
+• e9db0f7d691a65389c1164cd61aef1d7
+• 0eacfecd84a50fde9c567ecec0dd6982
+• 5f46db361727b678746dac71a5ffb1b0
+• 9b7b9c9193964fcc52a1a83d8476d2a7
+
+• e0e17eea7e37082edd64f44f00ed998c
+• 6283c2296aadb7ef37bbc9b4655bb752
+• 6c706df697ad8dc8f0867a4f65817216
+• e0048941311f5365d094e6389b35a7a8
+• e7693f584fb05f07888f32a9ea600c35
 SHA256
-• fe84a4a119917f15418659ed30699d873b6445aa053d9303287b085e35bf1002
-• 8e51819e39e4fc73d71b31e49b6775e47ee3b11af1fd9eb48a1e7d49dad62bc0
-• db6315274dc31bea8f42c79ea8928a4be2a5dd996c3e7a702f6a2bac5c463fee
-• 25226992e7111d7229706ce802d9716459d9e04097118ef1193c8c769bfe76c8
-• fb153d829c414c598d4e8368f2340cc477e16926f778b3b51a0867435ded9885
-• 94a3b1fc830323234f5ac6e69cf0840507c23e15bee5c8c3aa86fddaf61ef8b1
-• e056ffe82465d52687b5b27d28897890c6292a4b784099d718b5abe7f3db56ff
-• 242e00c2c3bfb41930b292448f79ac53cbec0f7315d4f71c23326a8ed5a51368
-• 6b5df7909e349ce04b4ec2e3b02bd0f3c1f49173d7d1485946e4c4e9194e88ae
-• 7c9813ba830d9f01d25baa6467f98c3e98efd009acbcc983605d471970259345
-• 78fcb129c686e3cd2f60b5c5a1b8582937ea97dc5ca0cde501cc98a8935a7230
-• 7d88328a70666d32dd69e817e6f21591df24fae28eb043c4878faa3a80e24f25
-• 11ef9c884e6ba9f176008fac827d577534a4d6cc3e2145be9e4814754cf2d467
-• 3be25978576526fa3ef931996b35f7f7978d2da7dc8916bc14c99a5911320d36
-• efc5eb8edcd78fd535b5d150165138dc413ff1d36920783d2a83426050116059
-• 0782b51fd33941784e737abf29a0b359b9d825cbb115e1187de4ac94fbed9d3e
-• 2f8fde917b8937384d6bb3c8f0777b37be36cdc4e8e9d2cf1d70c67667806970
-• 4236a29755198d43aff4675a117d51f9b3e963a53e16cb1a9d42a1760aa62fef
-• a72cf98c991b5ebac0712edc76da613e6b173bd425c56a0ce4adc031409ec668
-• ab1f9ea02bfb108fc731401a0039317863df59dd3e90bbf86a3f278db59b506a
-• cd21037aad69f61020a062d170cc0acf4559f161ccc10c61da1bd9c04899842f
-• d1241a250af93c0e1dc407c795f6e0c016ed40326034d722110fc8c97b71d462
-• efd22b61285ff5f3ed5de899a2e2933f9c5d11c3107d6d6b7339a0c466703939
-• de1091252ebf2ed617e300c40a2c56ccac8a3e1b5c7f0e87a1cc3636766abe51
-• e39086a052eb2a30199c4badd5954720a4da2beb14d750bb9a15749f52e1cd69
-• 2a7e13e904f8de0f4eebe3d364f7f1fdd09aa72b2c95db20393cfbb0eb77341d
-• c340e3d3ae7f769b4e88204dd08aa0f7b0145dffafe164d8e09c39b5a6d0d7cb
-• 471f93c926ba18b0f9b6ff395f25380cbdd4c129fcacaf9479ce87b2be13d026
-• c69202724d23049d7c1e886acb4e90e56632cf987101243628e89fca99c59cd8
-• 24b37e93633107389865dfca167a2fb73cc2c665c6b314f13232ac6fd5938e6c
-• 4c8b1c9ed7ba0d921b0971a3e5de96bfdb3b18024e8880c7aaa2759f13c01316
-• eee9588e4c2fdfffb1346dd7d49b2bfe3a366711b0621a540ae0f35149c5305e
-• 31034c7b6a4b63ca40d02e53e4fcae00aee3312895f80bad4596225afff23857
-• 9ba1fdde2cc64be99ce8b98fa34cd602949d13c72a7b84fa5da6828cec12c5d9
-• ef8d2ba1c66eca5e8309fe0b2e624f7abe38c94a2676484935ad1497ce647786
-• 3d21f7b2342c41baa216a2d661e2ddf278aec8088dacbbd311a03a1cdab802d1
-• 3b9f7a0d43a4642d9203be625f745287d8181e65dee37fdf6d3c5128d1e70f2b
-• 33cec1040c18911c90668806a603cfbb91932abb32d7382923713e852cda812c
-• fd045fcede68ce2fda2531a9dd28f407aab0f29b3dd3c86e017172abee93386c
-• a6bda80c9f914fb5b640d3437c264993b49a91d997562d53f5ba8d32ac979ec1
-• cfb821ba0129c75e301ad4da6c4e0b6633d1b79d8a68c300dcbf677aff4f7cfd
-• bc71f58b2438a89e2cd189b8896a97b2436f091ab240861b84435afcdc3db746
-• 23717fb20568898c76e833cc105ff3126aafa246c063c0eac32e88f6d2d457c7
-• 365695a8882615e0e1f85b8477bb82212783b1ef3672f67a8ca92bc252ec11ed
-• 38edb1e30a7b4b57b9cb8855578fd98957ba300308cccf381649bc635d5bc62d
-• 4afb456bb3983c01aee5136f35b7c2ee462730ca277e533ae3a323f6bd91a4e3
-• 9138b3a2d4a2738aeee8fdcbf6d62cca2f0e932961a42535b857d086199abeae
-• b5bd1068644f0c38e7aa1cb38dcc40eacf146be9b43d8fd865fddee61ea9a588
-• e197ceb80e3ef185b35ed96577baea6b3f01d4a66375434be1211111af80d3d6
-• e553d742df3a21e0bad671e6b78ea28f079e49de58e6b704593f5b39148dfe3e
-• dde6fbb088f83f3934f801cc6fb41c3ee24a950d66641395894667b5f4578f36
-• c3eca802d266555e3085290b59b18a47590a1b67136baffe0b317ad9d647b979
-• c11d636cc496a34b3e7c971f0b8c33983a3220b0c97a6bb9934dc246bc07f898
-• 9d6aa8c974d714b41adb1f172eeb685ba296ca8bc4ea507bed7dd029e57bbf0e
-• 274efb6bb2f95deb7c7f8192919bf690d69c3f3a441c81fe2a24284d5f274973
-• fbe8105cedeef4522e84d4a630d98d24bb81a006d0aafcf2abed2a740f799cd8
-• f5b9464eb8690baf6838c5f8c9a5bc982828add2bd20590821837a8ec0953780
-• ef3dbe8de3b210e300cd5953b8a79b0edfb540825da9f311e4e0942851451099
-• ee1f01be3c1e196bdb4818d39f7eb467ec3cbfa218fc8551beaca10ac8ea2d80
-• d913b594d8ef392572b5d6886fb1564d07836c0b2ed51f040e29eb02212115a2
-• b1c2583db2a83929a30a1f334daaf26ec888c7fb41d31221961b3ab322bacb78
-• 9d7e32659c8602b244171bd71fc14d1de0363ef03463c3dc34efbeaa0489c6c7
-• 86b6b95693f2ca220b22b705ce7bc312f5744af2a611d7f7050a18340a2b0dbb
-• 5ba1ac325c18691aa751f4dcfa77fcebef73e7c1729e9741ed7e3287fded926f
-• 54cbb64c7ceb4044a1013d0d8ee1cde8d02e3ede1b17cf1eda6c0ae78f91fc87
-• 4825347eae5e623258bea18156cff5885335cde1cd6099f384c989b9ab5fbee6
-• 40c70726840571266ad718da59170b87c4fd8531b8169f787c28713ff75aba63
-• 04f21a71a51d0de01d28b2a4533694411cdc666229d389724194db2c843d5247
-• 02b0e4201537e5faf8187db038fc892b6702907312a404cde24918fffbf78c71
-• bb5004a4df4d04688760f38cf9f687565a5beec93e84b1cc2ab36a33a600e1a6
-• 07091d641b385cf6ef21da084cd7968d3164b1e27feefca588d6030c0ecaaedc
-• 034d13c9d7167d9704dc1b0afab05c7340473e22b36bc0e4bed46f1db1d406b4
-• 01b412bc0ef970af2fb966ee3f5e8d0769dba453d4a4808eaca0b5e47eafd166
-• 8d136905bf6a7e0321cf099e4e8d3a58b26e9263ee9266b9712091b4fd6e8219
-• 19bf662ee014aad8ba0f40488dde4bdfc84f873d49dab32ec618046e2c200975
-• b252aaea31c1ad0b0a65ff708e0cd33d147e359b25288e1b761351514445032a
-• 9c2e812f97db2e19179351eeebaa1c24843587fecfe9137bf1cabcea93b12d1e
-• ada4cf80b1a804d7830f3e635210b0be111977e1a7a5a1e0fc3fe9470a772b3c
-• f5390d405ea44efe8253b000d582a9a20f06c57f66a459437d62d5975e48c9c9
-• fa44603f49250d641e2d89f2ffac8da2d6c28b744220c2014cd4562ad1b8b177
-• 0d7514389c3b6575c145ae81504baf30e1697953398d67e1b9cdd93c988f86f3
-• 1b350ab8fe858722dcb4cb3481945a853fa5382b8530b8c32c38b343c1bd3749
-• 4c1038736179e8e41ca05d45bb16a81d01f509ebb9d9051a0095ffb4b9da81ea
-• 51c2ce9149de3db70b215296b809528da5b3adbf79d8dcbd67d24e7f4cbbf28f
-• 56c7225d39aa7d65908e596fe7997fc3c5ad97fb9b528f304dae5c1664df7042
-• 74e02a922753dfedb02f3935bc7c0580c27abf56332d5e5bf5c82d4a1a30fb03
-• 75938ac69c673d67db37935a2c882a56d21f8085a326a61033a41c61a969353c
-• 782002e0f8ad2bb96d89bf0404ec3a64668960141afef49c0dd9a226eb80bdf6
-• 7b67a52898fbc14b355096ad182174a2ee3ccff8f80ba332cffca0b9a0e0c0c3
-• 80ec2a8de6f81b33af8e7f0012be8b37ff7c8b38389d0ab5279f59a9edd42082
-• 8c162d248940ee7851490c80390d0a6bc614cad19116b7b9c1106bf82205edc2
-• 8f1c12f90ac2afb6baf5d40bf4122b62c3867d421eda1cd785443c51c7f8ada2
-• a0c23da83086dd6655b2958031c035d60a3275fc29614746f74312f26941e72b
-• aaa6ce4a562812d150ebecc689eef415002cd1f888b15d9665f8902e9a0fc98f
-• ca9af3c4717ffe322f5e2f02fc8745f5744f5e8397a87212246099b4c3e2a53d
-• d7f99feab000b2e540484c9fd595581d95eef7d2cc34da759293d5ef51961928
-• d8527365ff27229d55b5033c6acedd6288ede1713ebd02d7e6d67c7949310074
-• dcc0acdc514d4c96de42b032a952d6e5308e0ce8f122b22b7da715ef3b213854
-• f56656c84c17d1bf6a572bb009c3b6dc74c2854ed8403ef7bb54df2294526c3b
-• 114d52f872761dcdd3c9c9d710a8522d71bb10a0535798e32037329417c92532
+• 51bbc1deec21026e02e20d35f06bbf602c920da02a5440032ea24bc4ae3d28db
+• dbfb478d52b870bb39d75faa7401c7a7b06e8e88b34ae050d02ff8a0e7545e86
+• 31b72e1c246b4f38e70f9c8c556a626b15736589860f3231001bb4ebae749239
+• 6ce41ee43a5d5f773203cfcf810c0208246f0b27505d49b270288751a747f5a3
+• bb14efe250cb12b36625c76457248a62cf0bc7bada31a58415d8db59a329908d
+• dd8bd825fd2149b027cadb38cbc53e0fc818c4cebf7f7792d8c541928464a751
+• 149a7273a9717ae1cd80bc6aa5ae6c4412b43bc0f5349e93a5c308342df1cd20
+• aaf58696022448b12012205b24376df5f6351843ed32b6433ba1fbbf4d718648
+• 0802b1ca82507a048ed2f6d12cd51d7b9f88ae03a79ea5650a6a4a20a09656ba
+• 2fdaee223cc9c38d1eeefafc701bc48e991eb24fae28c6a1b7dd65819c024963
+• 54a2a5f3cc27ed7abba8296ab24070e8b13d5ced8f233b3aed9a4c8144524130
+• 54b42a025430711031c06d511cf9a979c2f00967e974ad0d90f498640ec8ffd0
+• 499c07a499d46fe25fcc94197276e347d1df89ad858eaf6a70d6474ccf92301c
+• 621c958504b020d469f2759a6acd5494552921515ff9b01fc73892fa6488d463
+• 39505bf9b61e4886a5e886d9ec0b50f00ce691c8c7c6934fdb62a90ee0eb7997
+• 598525b678d0a5524fe14ad75c9dab74288d877cf97839ea9b928898246fa56e
+• ba33c4f04a239f54e222e005859073708140b6b7997590715b1cc834231e6470
+• 9e11c2806cfc43666cf6ffdd3131b90a9e4ed555831b1beb9dea1aaff0ea3e01
+• 0b1da36b598c9a556a96133b625413f10198c763f07345cc8a47c29991dfff68
+• 702796e1e09b0ae43363337225a46695836c8a32fddc21c1443f2b38b0f28f38
 
-Aquabotv3 Nueva Variante de la botnet Mirai 
+Malware SparkCat se Infiltró en Apps de Google Play y la App Store
 
-IP
-• 89[.]190[.]156[.]145
-• 91[.]92[.]243[.]233
-• 213[.]130[.]144[.]69
-• 154[.]216[.]16[.]109
-• 193[.]200[.]78[.]33
-• 173[.]239[.]233[.]47
-• 141[.]98[.]11[.]67
-• 141[.]98[.]11[.]175
-• 173[.]239[.]233[.]48
-• 173[.]239[.]233[.]46
-•
 DOMAIN
-• dogmuncher[.]xyz • cardiacpure[.]ru
-
-• fuerer-net[.]ru
-• eye-network[.]ru
-• intenseapi[.]com
-• cloudboats[.]vip
-• theeyefirewall[.]su
-• awaken-network[.]net
-SHA256
-• 597b84ba23e16b24ec17288981bbf65c84b6ba3bb07df6620378a1907692fb86
-• 6a070dc9614dbb9a76092258fdc8bd758f69126c73787dc7d2af9aebd436e7ec
-• b41e29e745b69f3e8c11d105e7e050fd9e08ff1e22efd97fd4c239a9095d708b
-• b5d1cf8b222162567f46281e792145774689c205701a02f3723cf6fb13a429de
-• 1e74bcd24e30947bd14cef6731ca63f69df060ba3dcac88b2321171335a6e8ef
-• e06c3f5c32aaa422e66056290eb566065afe2ce611fe019f3ba804af939ac1a3
-
-Campaña de Malware Para Android Distribuye Tria Stealer
-
+• api[.]firebaseo[.]com
+• api[.]aliyung[.]com
+• api[.]aliyung[.]org
+• uploads[.]99ai[.]world
+• socket[.]99ai[.]world
+• api[.]googleapps[.]top
+URL
+• hxxps://gitlab[.]com/group6815923/ai/-/raw/main/rel[.]json
+• hxxps://gitlab[.]com/group6815923/kz/-/raw/main/rel[.]json
+• hxxps://dmbucket102[.]s3[.]ap-northeast-1[.]amazonaws[.]com
 MD5
-• de9384577e28c52f8dc690b141098969
-• 3993142deafce26820411191e4fa9af8
-• b8f4ac57c06755e98ecd263020aeaa82
-• 5ed3ef03ca89c67bf93bb9230f5e4e52
-• 96143c28e7937f64ecdb6f87510afbbe
-• 0e837107c42ee8282fd273e4a100b2de
-• 4e7a72f32d5b6679a58c8261049d063b
-• 448fd25e24980bb0abd1208b0395a8e1
-• daa30cd6699c187bb891448b89be1340
-• 162ed054914a8c71ad02126693c40997
-• 9698fa3e7e64272ff79c057e3b8be5d8
-• 9a0147d4c9d6ed3be82825ce35fdb4ee
-• e4da1332303b93f11d40787f7a79b917
-• 4ff2572a40300c0cce4327ec34259902
+• 0ff6a5a204c60ae5e2c919ac39898d4f
+• 21bf5e05e53c0904b577b9d00588e0e7
+
+• a4a6d233c677deb862d284e1453eeafb
+• 66b819e02776cb0b0f668d8f4f9a71fd
+• 51cb671292eeea2cb2a9cc35f2913aa3
+• 00ed27c35b2c53d853fafe71e63339ed
+• 7ac98ca66ed2f131049a41f4447702cd
+• 6a49749e64eb735be32544eab5a6452d
+• 24db4778e905f12f011d13c7fb6cebde
+• 4ee16c54b6c4299a5dfbc8cf91913ea3
+• a8cd933b1cb4a6cae3f486303b8ab20a
