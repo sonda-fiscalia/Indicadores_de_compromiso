@@ -151,3 +151,7 @@ hxxp://worldtimeapi[.]org/api/timezone/GMT     # Boletín 02-02 a 06-02 2026
 hxxps://timeapi[.]io/api/time/current/zone?timeZone=UTC     # Boletín 02-02 a 06-02 2026  
 hxxp://www[.]cnbc[.]com/id/100727362/device/rss      # Boletín 02-02 a 06-02 2026 
 hxxp://128[.]199[.]113[.]162/zawautng[.]php     # Boletín 02-02 a 06-02 2026 
+hxxps://getauth[.]pro/api/telemetry[.]php     # Boletín 16-02 a 20-02 2026 
+hxxps://getauth[.]pro/api/validate[.]php     # Boletín 16-02 a 20-02 2026
+hxxps://getauth[.]pro/api/telegram_notify[.]php      # Boletín 16-02 a 20-02 2026
+hxxps://api[.]ipify[.]org/?format=json     # Boletín 16-02 a 20-02 2026 
