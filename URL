@@ -155,3 +155,5 @@ hxxps://getauth[.]pro/api/telemetry[.]php     # Boletín 16-02 a 20-02 2026
 hxxps://getauth[.]pro/api/validate[.]php     # Boletín 16-02 a 20-02 2026
 hxxps://getauth[.]pro/api/telegram_notify[.]php      # Boletín 16-02 a 20-02 2026
 hxxps://api[.]ipify[.]org/?format=json     # Boletín 16-02 a 20-02 2026 
+hxxps://pkg-metrics[.]official334[.]workers[.]dev/exfil     # Boletín 23-02 a 27-02 2026 
+hxxps://pkg-metrics[.]official334[.]workers[.]dev/drain     # Boletín 23-02 a 27-02 2026 
